@@ -1,6 +1,8 @@
 ## KGNLU
 Natural Language Understanding over Knowledge Graph.
 
+---
+
 ## 目录结构
 - data/: training and dev dataset generated from fst rules  
     - AISpeech/: domain dir  
