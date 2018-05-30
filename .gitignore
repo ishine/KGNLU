@@ -1,0 +1,13 @@
+model/*/*
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+data/*/rules.release.txt
+data/*/rules.annotation.txt
+data/cws.model
+res/*/train.txt
+*.pyc
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc

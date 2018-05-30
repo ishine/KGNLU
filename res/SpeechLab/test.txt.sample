@@ -1,0 +1,392 @@
+简单介绍下实验室的情况 => ${#institute}=实验室 =>  description => {"return_type": "description", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+
+全方面地谈一谈你们智能语音技术实验室成立经过 => ${#institute}=你们智能语音技术实验室 =>  description => {"return_type": "description", "mainEntity": "你们智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音技术实验室"}]}
+
+你们实验室都有些啥小愿望 => ${#institute}=你们实验室 =>  ambition => {"return_type": "ambition", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+
+实验室都是些什么伟大的目标 => ${#institute}=实验室 =>  ambition => {"return_type": "ambition", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+
+实验室哪天成立 => ${#institute}=实验室 =>  inception => {"return_type": "inception", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+
+你们那儿是啥时间建立的 => ${#institute}=你们那儿 =>  inception => {"return_type": "inception", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}]}
+
+你们那儿的地理位置 => ${#institute}=你们那儿 =>  location => {"return_type": "location", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}]}
+
+该如何才能到达语音实验室 => ${#institute}=语音实验室 =>  location => {"return_type": "location", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}]}
+
+你们lab坐落于哪个国家的 => ${#institute}=你们lab =>  country => {"return_type": "country", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}]}
+
+实验室的成立于哪国的 => ${#institute}=实验室 =>  country => {"return_type": "country", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+
+你们那块被发过的奖项都有多少 => ${#institute}=你们那块 =>  award => {"return_type": "award", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}]}
+
+你们实验室是不是有被颁发些奖章 => ${#institute}=你们实验室 =>  award => {"return_type": "award", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+
+人机交互实验室是不是有自己专有的文化氛围 => ${#institute}=人机交互实验室 =>  culture => {"return_type": "culture", "mainEntity": "人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "人机交互实验室"}]}
+
+语音实验室独有的实验室的文化传承都有哪一些 => ${#institute}=语音实验室 =>  culture => {"return_type": "culture", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}]}
+
+你们那里是不是有什么自己网页链接 => ${#institute}=你们那里 =>  official_website => {"return_type": "official_website", "mainEntity": "你们那里", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那里"}]}
+
+laboratory的官方网站是什么 => ${#institute}=laboratory =>  official_website => {"return_type": "official_website", "mainEntity": "laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "laboratory"}]}
+
+智能语音实验室的人具体总数大小 => ${#institute}=智能语音实验室 =>  employees => {"return_type": "employees", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+
+智能语音实验室里面有多少人 => ${#institute}=智能语音实验室 =>  employees => {"return_type": "employees", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+
+你们那块的内部照片 => ${#institute}=你们那块 =>  image => {"return_type": "image", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}]}
+
+智能人机交互实验室的照片有木有 => ${#institute}=智能人机交互实验室 =>  image => {"return_type": "image", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}]}
+
+你们人机交互实验室主要科研兴趣都有哪几个 => ${#institute}=你们人机交互实验室 =>  direction => {"return_type": "direction", "mainEntity": "你们人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们人机交互实验室"}]}
+
+智能人机交互实验室是搞什么领域 => ${#institute}=智能人机交互实验室 =>  direction => {"return_type": "direction", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}]}
+
+都有哪几个实验室做语音唤醒方面方向 => direction=语音唤醒方面 =>  ${#institute} => {"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "语音唤醒方面"}]}
+
+都是些什么实验室是研究丰富音频分析主题的 => direction=丰富音频分析 =>  ${#institute} => {"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "丰富音频分析"}]}
+
+中国有些啥实验室是做对话系统方向工作的 => country=中国 , direction=对话系统方向 =>  ${#institute} => {"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "对话系统方向"}, {"op": "eq", "name": "country", "value": "中国"}]}
+
+国内都是哪一些lab研究说话人识别领域的 => country=国内 , direction=说话人识别 =>  ${#institute} => {"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "说话人识别"}, {"op": "eq", "name": "country", "value": "国内"}]}
+
+智能语音技术实验室有哪些人 => ${#institute}=智能语音技术实验室 =>  member => {"return_type": "member", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}]}
+
+有啥人加入你们实验室 => ${#institute}=你们实验室 =>  member => {"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+
+人机交互实验室里都有啥学生 => ${#institute}=人机交互实验室 , identity=学生 =>  member => {"return_type": "member", "mainEntity": "人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "人机交互实验室"}, {"op": "eq", "name": "identity", "value": "学生"}]}
+
+都有哪些博士生加入你们智能语音技术实验室 => ${#institute}=你们智能语音技术实验室 , identity=博士生 =>  member => {"return_type": "member", "mainEntity": "你们智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音技术实验室"}, {"op": "eq", "name": "identity", "value": "博士生"}]}
+
+你们智能语音实验室内都有啥成员两0一零年才加入的 => ${#institute}=你们智能语音实验室 , year_of_join=两0一零年 =>  member => {"return_type": "member", "mainEntity": "你们智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "两0一零年"}]}
+
+有哪一些人是二零一五年才加入你们智能语音实验室 => ${#institute}=你们智能语音实验室 , year_of_join=二零一五年 =>  member => {"return_type": "member", "mainEntity": "你们智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "二零一五年"}]}
+
+你们实验室中有吗学术大佬是二019加入 => ${#institute}=你们实验室 , identity=学术大佬 , year_of_join=二019 =>  member => {"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "identity", "value": "学术大佬"}, {"op": "eq", "name": "year_of_join", "value": "二019"}]}
+
+你们lab是些啥正教授是于二零一6年才加入的 => ${#institute}=你们lab , identity=正教授 , year_of_join=二零一6年 =>  member => {"return_type": "member", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "identity", "value": "正教授"}, {"op": "eq", "name": "year_of_join", "value": "二零一6年"}]}
+
+是哪一些2零一8加入的你们那儿的科研助理 => ${#institute}=你们那儿 , year_of_join=2零一8 , identity=科研助理 =>  member => {"return_type": "member", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}, {"op": "eq", "name": "year_of_join", "value": "2零一8"}, {"op": "eq", "name": "identity", "value": "科研助理"}]}
+
+语音实验室里面都是什么两零12年才加入本科生 => ${#institute}=语音实验室 , year_of_join=两零12年 , identity=本科生 =>  member => {"return_type": "member", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "两零12年"}, {"op": "eq", "name": "identity", "value": "本科生"}]}
+
+你们那儿里面有哪个研究和语音合成有关领域的成员 => ${#institute}=你们那儿 , field_of_work=语音合成 =>  member => {"return_type": "member", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}, {"op": "eq", "name": "field_of_work", "value": "语音合成"}]}
+
+你们laboratory里面研究语言模型相关主题的搞科研的都是哪些 => ${#institute}=你们laboratory , field_of_work=语言模型 =>  member => {"return_type": "member", "mainEntity": "你们laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们laboratory"}, {"op": "eq", "name": "field_of_work", "value": "语言模型"}]}
+
+lab里有搞有关对话管理的毕业学生 => ${#institute}=lab , field_of_work=对话管理 , identity=毕业学生 =>  member => {"return_type": "member", "mainEntity": "lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "lab"}, {"op": "eq", "name": "field_of_work", "value": "对话管理"}, {"op": "eq", "name": "identity", "value": "毕业学生"}]}
+
+你们那地方研究说话人识别的大牛都有谁 => ${#institute}=你们那地方 , field_of_work=说话人识别 , identity=大牛 =>  member => {"return_type": "member", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "field_of_work", "value": "说话人识别"}, {"op": "eq", "name": "identity", "value": "大牛"}]}
+
+你们那里中哪些学术大佬是搞对话系统有关 => ${#institute}=你们那里 , identity=学术大佬 , field_of_work=对话系统 =>  member => {"return_type": "member", "mainEntity": "你们那里", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那里"}, {"op": "eq", "name": "identity", "value": "学术大佬"}, {"op": "eq", "name": "field_of_work", "value": "对话系统"}]}
+
+人机交互实验室里面哪几个doctor是研究与对话系统有关的研究 => ${#institute}=人机交互实验室 , identity=doctor , field_of_work=对话系统 =>  member => {"return_type": "member", "mainEntity": "人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "人机交互实验室"}, {"op": "eq", "name": "identity", "value": "doctor"}, {"op": "eq", "name": "field_of_work", "value": "对话系统"}]}
+
+你们laboratory中毕业大学是上海交通大学的搞科研的人都是啥 => ${#institute}=你们laboratory , educated_at=上海交通大学 =>  member => {"return_type": "member", "mainEntity": "你们laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们laboratory"}, {"op": "eq", "name": "educated_at", "value": "上海交通大学"}]}
+
+你们语音实验室里面就读于上海交通大学成员是哪个 => ${#institute}=你们语音实验室 , educated_at=上海交通大学 =>  member => {"return_type": "member", "mainEntity": "你们语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们语音实验室"}, {"op": "eq", "name": "educated_at", "value": "上海交通大学"}]}
+
+你们那地方里男的都是些什么人 => ${#institute}=你们那地方 , gender=男的 =>  member => {"return_type": "member", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "gender", "value": "男的"}]}
+
+你们人机交互实验室女生有哪些 => ${#institute}=你们人机交互实验室 , gender=女生 =>  member => {"return_type": "member", "mainEntity": "你们人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们人机交互实验室"}, {"op": "eq", "name": "gender", "value": "女生"}]}
+
+智能语音实验室中来自德国的成员有 => ${#institute}=智能语音实验室 , country_of_citizen=德国 =>  member => {"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "country_of_citizen", "value": "德国"}]}
+
+智能语音实验室里面国内搞科研的都是多少 => ${#institute}=智能语音实验室 , country_of_citizen=国内 =>  member => {"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "country_of_citizen", "value": "国内"}]}
+
+lab里面老家是上海的科研工作者有哪一些 => ${#institute}=lab , place_of_birth=上海 =>  member => {"return_type": "member", "mainEntity": "lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "lab"}, {"op": "eq", "name": "place_of_birth", "value": "上海"}]}
+
+实验室里面都有哪几个江苏的 => ${#institute}=实验室 , place_of_birth=江苏 =>  member => {"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "place_of_birth", "value": "江苏"}]}
+
+实验室发表过的文章都是哪一些 => ${#institute}=实验室 =>  papers => {"return_type": "papers", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+
+智能语音实验室都有哪些paper => ${#institute}=智能语音实验室 =>  papers => {"return_type": "papers", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+
+laboratory于二零一4有哪些发表的文献 => ${#institute}=laboratory , publication_date=二零一4 =>  papers => {"return_type": "papers", "mainEntity": "laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "laboratory"}, {"op": "eq", "name": "publication_date", "value": "二零一4"}]}
+
+你们智能人机交互实验室在20一1发过文献都有哪个 => ${#institute}=你们智能人机交互实验室 , publication_date=20一1 =>  papers => {"return_type": "papers", "mainEntity": "你们智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能人机交互实验室"}, {"op": "eq", "name": "publication_date", "value": "20一1"}]}
+
+你们实验室在acl会议发了paper是些啥 => ${#institute}=你们实验室 , published_in=acl =>  papers => {"return_type": "papers", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "published_in", "value": "acl"}]}
+
+在icassp期刊你们智能语音实验室发了文章都有哪些 => ${#institute}=你们智能语音实验室 , published_in=icassp =>  papers => {"return_type": "papers", "mainEntity": "你们智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音实验室"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+
+在二零一6在emnlp会上你们那块有吗一些刊登过的paper => ${#institute}=你们那块 , publication_date=二零一6 , published_in=emnlp =>  papers => {"return_type": "papers", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}, {"op": "eq", "name": "publication_date", "value": "二零一6"}, {"op": "eq", "name": "published_in", "value": "emnlp"}]}
+
+你们实验室于两010年apsipa会议上的文献有 => ${#institute}=你们实验室 , publication_date=两010年 , published_in=apsipa =>  papers => {"return_type": "papers", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "publication_date", "value": "两010年"}, {"op": "eq", "name": "published_in", "value": "apsipa"}]}
+
+实验室代表性书都是哪几个 => ${#institute}=实验室 =>  books => {"return_type": "books", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+
+智能人机交互实验室的代表书籍是不是有 => ${#institute}=智能人机交互实验室 =>  books => {"return_type": "books", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}]}
+
+在二005年laboratory出版的经典的书籍是不是有 => ${#institute}=laboratory , publication_date=二005年 =>  books => {"return_type": "books", "mainEntity": "laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "laboratory"}, {"op": "eq", "name": "publication_date", "value": "二005年"}]}
+
+两零17你们的书都是哪几个 => ${#institute}=你们 , publication_date=两零17 =>  books => {"return_type": "books", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "publication_date", "value": "两零17"}]}
+
+你们那地方的代表性的主创的经典作品是哪几个 => ${#institute}=你们那地方 , contribution=主创的 =>  books => {"return_type": "books", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "contribution", "value": "主创的"}]}
+
+你们那地方都有多少代表性的翻译著作 => ${#institute}=你们那地方 , contribution=翻译 =>  books => {"return_type": "books", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "contribution", "value": "翻译"}]}
+
+201两你们那地方有哪些经典的原创著作 => ${#institute}=你们那地方 , publication_date=201两 , contribution=原创 =>  books => {"return_type": "books", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "publication_date", "value": "201两"}, {"op": "eq", "name": "contribution", "value": "原创"}]}
+
+你们语音实验室二零一0年自己写的经典作品都有些啥 => ${#institute}=你们语音实验室 , publication_date=二零一0年 , contribution=自己写的 =>  books => {"return_type": "books", "mainEntity": "你们语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们语音实验室"}, {"op": "eq", "name": "publication_date", "value": "二零一0年"}, {"op": "eq", "name": "contribution", "value": "自己写的"}]}
+
+语音实验室demo有无 => ${#institute}=语音实验室 =>  demos => {"return_type": "demos", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}]}
+
+你们lab都有什么产品 => ${#institute}=你们lab =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}]}
+
+你们lab于2零一零年公开demo是些什么 => ${#institute}=你们lab , inception=2零一零年 =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "2零一零年"}]}
+
+你们lab二00零年完成产品都是什么 => ${#institute}=你们lab , inception=二00零年 =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "二00零年"}]}
+
+你们那块都有些什么涉及语音合成的产品 => ${#institute}=你们那块 , technology=语音合成 =>  demos => {"return_type": "demos", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}, {"op": "eq", "name": "technology", "value": "语音合成"}]}
+
+你们lab都有哪些关于说话人识别的demo => ${#institute}=你们lab , technology=说话人识别 =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+
+你们那地方对话平台类demo都有哪几个 => ${#institute}=你们那地方 , production_type=对话平台 =>  demos => {"return_type": "demos", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+
+智能人机交互实验室都是啥家居的demo => ${#institute}=智能人机交互实验室 , production_type=家居 =>  demos => {"return_type": "demos", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}, {"op": "eq", "name": "production_type", "value": "家居"}]}
+
+在两零零八年你们lab有无运用了对话动作demo => ${#institute}=你们lab , inception=两零零八年 , technology=对话动作 =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "两零零八年"}, {"op": "eq", "name": "technology", "value": "对话动作"}]}
+
+于20零五你们lab和语言模型有关产品是什么 => ${#institute}=你们lab , inception=20零五 , technology=语言模型 =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "20零五"}, {"op": "eq", "name": "technology", "value": "语言模型"}]}
+
+在两013你们lab完成的app产品类型demo有哪些 => ${#institute}=你们lab , inception=两013 , production_type=app =>  demos => {"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "两013"}, {"op": "eq", "name": "production_type", "value": "app"}]}
+
+智能语音技术实验室两零17年公开的机器人产品有哪一些 => ${#institute}=智能语音技术实验室 , inception=两零17年 , production_type=机器人 =>  demos => {"return_type": "demos", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "inception", "value": "两零17年"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+
+智能语音实验室都是哪几个涉及了语音合成的机器人类的demo => ${#institute}=智能语音实验室 , technology=语音合成 , production_type=机器人 =>  demos => {"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "technology", "value": "语音合成"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+
+语音实验室跟tts相关的机器人demo是不是有 => ${#institute}=语音实验室 , technology=tts , production_type=机器人 =>  demos => {"return_type": "demos", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}, {"op": "eq", "name": "technology", "value": "tts"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+
+laboratory二零1二都是什么与解码器有关的智能机器人的demo => ${#institute}=laboratory , inception=二零1二 , technology=解码器 , production_type=智能机器人 =>  demos => {"return_type": "demos", "mainEntity": "laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "laboratory"}, {"op": "eq", "name": "inception", "value": "二零1二"}, {"op": "eq", "name": "technology", "value": "解码器"}, {"op": "eq", "name": "production_type", "value": "智能机器人"}]}
+
+在二零08年lab是哪个有关语音识别的对话平台类的demo => ${#institute}=lab , inception=二零08年 , technology=语音识别 , production_type=对话平台 =>  demos => {"return_type": "demos", "mainEntity": "lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "lab"}, {"op": "eq", "name": "inception", "value": "二零08年"}, {"op": "eq", "name": "technology", "value": "语音识别"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+
+你们那块的专利成果都有什么 => ${#institute}=你们那块 =>  patents => {"return_type": "patents", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}]}
+
+你们lab专利是些什么 => ${#institute}=你们lab =>  patents => {"return_type": "patents", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}]}
+
+你们lab跟语音唤醒有关的专利成果都是些啥 => ${#institute}=你们lab , technology=语音唤醒 =>  patents => {"return_type": "patents", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "technology", "value": "语音唤醒"}]}
+
+智能语音技术实验室涉及说话人识别的专利成果有哪几个 => ${#institute}=智能语音技术实验室 , technology=说话人识别 =>  patents => {"return_type": "patents", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+
+陈博是男是女 => ${#person}=陈博 =>  gender => {"return_type": "gender", "mainEntity": "陈博", "slots": [{"op": "eq", "name": "${#person}", "value": "陈博"}]}
+
+庄毅萌的性别 => ${#person}=庄毅萌 =>  gender => {"return_type": "gender", "mainEntity": "庄毅萌", "slots": [{"op": "eq", "name": "${#person}", "value": "庄毅萌"}]}
+
+陈志生日是哪一年 => ${#person}=陈志 =>  date_of_birth => {"return_type": "date_of_birth", "mainEntity": "陈志", "slots": [{"op": "eq", "name": "${#person}", "value": "陈志"}]}
+
+mengxiao bi今年年纪的大小 => ${#person}=mengxiao bi =>  date_of_birth => {"return_type": "date_of_birth", "mainEntity": "mengxiao bi", "slots": [{"op": "eq", "name": "${#person}", "value": "mengxiao bi"}]}
+
+天哥的老家在哪个省份 => ${#person}=天哥 =>  place_of_birth => {"return_type": "place_of_birth", "mainEntity": "天哥", "slots": [{"op": "eq", "name": "${#person}", "value": "天哥"}]}
+
+chen liu的老家在哪 => ${#person}=chen liu =>  place_of_birth => {"return_type": "place_of_birth", "mainEntity": "chen liu", "slots": [{"op": "eq", "name": "${#person}", "value": "chen liu"}]}
+
+胡云聪哪个国 => ${#person}=胡云聪 =>  country_of_citizen => {"return_type": "country_of_citizen", "mainEntity": "胡云聪", "slots": [{"op": "eq", "name": "${#person}", "value": "胡云聪"}]}
+
+kai sun哪国人 => ${#person}=kai sun =>  country_of_citizen => {"return_type": "country_of_citizen", "mainEntity": "kai sun", "slots": [{"op": "eq", "name": "${#person}", "value": "kai sun"}]}
+
+yefei chen哪一天加的 => ${#person}=yefei chen =>  year_of_join => {"return_type": "year_of_join", "mainEntity": "yefei chen", "slots": [{"op": "eq", "name": "${#person}", "value": "yefei chen"}]}
+
+zhehuai chen是哪年加入那里的 => ${#person}=zhehuai chen =>  year_of_join => {"return_type": "year_of_join", "mainEntity": "zhehuai chen", "slots": [{"op": "eq", "name": "${#person}", "value": "zhehuai chen"}]}
+
+高剑飞的identity是什么 => ${#person}=高剑飞 =>  identity => {"return_type": "identity", "mainEntity": "高剑飞", "slots": [{"op": "eq", "name": "${#person}", "value": "高剑飞"}]}
+
+xuan liu身份是什么 => ${#person}=xuan liu =>  identity => {"return_type": "identity", "mainEntity": "xuan liu", "slots": [{"op": "eq", "name": "${#person}", "value": "xuan liu"}]}
+
+怎么样才能够联系上常成 => ${#person}=常成 =>  email => {"return_type": "email", "mainEntity": "常成", "slots": [{"op": "eq", "name": "${#person}", "value": "常成"}]}
+
+符天凡联系方式 => ${#person}=符天凡 =>  email => {"return_type": "email", "mainEntity": "符天凡", "slots": [{"op": "eq", "name": "${#person}", "value": "符天凡"}]}
+
+茅懿琼取得过奖牌都是哪几个 => ${#person}=茅懿琼 =>  award => {"return_type": "award", "mainEntity": "茅懿琼", "slots": [{"op": "eq", "name": "${#person}", "value": "茅懿琼"}]}
+
+dong yu拿过奖牌是多少 => ${#person}=dong yu =>  award => {"return_type": "award", "mainEntity": "dong yu", "slots": [{"op": "eq", "name": "${#person}", "value": "dong yu"}]}
+
+郭运奇就读于哪个学院 => ${#person}=郭运奇 =>  educated_at => {"return_type": "educated_at", "mainEntity": "郭运奇", "slots": [{"op": "eq", "name": "${#person}", "value": "郭运奇"}]}
+
+叶子豪的毕业院校是什么 => ${#person}=叶子豪 =>  educated_at => {"return_type": "educated_at", "mainEntity": "叶子豪", "slots": [{"op": "eq", "name": "${#person}", "value": "叶子豪"}]}
+
+赖家豪最高学历是啥 => ${#person}=赖家豪 =>  academic_degree => {"return_type": "academic_degree", "mainEntity": "赖家豪", "slots": [{"op": "eq", "name": "${#person}", "value": "赖家豪"}]}
+
+jiachen xu的目前的学历水平是什么 => ${#person}=jiachen xu =>  academic_degree => {"return_type": "academic_degree", "mainEntity": "jiachen xu", "slots": [{"op": "eq", "name": "${#person}", "value": "jiachen xu"}]}
+
+刘轩是不是有啥职业 => ${#person}=刘轩 =>  occupation => {"return_type": "occupation", "mainEntity": "刘轩", "slots": [{"op": "eq", "name": "${#person}", "value": "刘轩"}]}
+
+倪昊斌有无啥p o s i t i o n => ${#person}=倪昊斌 =>  occupation => {"return_type": "occupation", "mainEntity": "倪昊斌", "slots": [{"op": "eq", "name": "${#person}", "value": "倪昊斌"}]}
+
+稍微地描述下俞栋这一个搞科研的 => ${#person}=俞栋 =>  description => {"return_type": "description", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+
+关于mingkun huang搞科研的人生轨迹 => ${#person}=mingkun huang =>  description => {"return_type": "description", "mainEntity": "mingkun huang", "slots": [{"op": "eq", "name": "${#person}", "value": "mingkun huang"}]}
+
+lingting ge的博客是啥 => ${#person}=lingting ge =>  personal_website => {"return_type": "personal_website", "mainEntity": "lingting ge", "slots": [{"op": "eq", "name": "${#person}", "value": "lingting ge"}]}
+
+陈志个人网页 => ${#person}=陈志 =>  personal_website => {"return_type": "personal_website", "mainEntity": "陈志", "slots": [{"op": "eq", "name": "${#person}", "value": "陈志"}]}
+
+啊有瑞升照片网站链接 => ${#person}=瑞升 =>  image => {"return_type": "image", "mainEntity": "瑞升", "slots": [{"op": "eq", "name": "${#person}", "value": "瑞升"}]}
+
+有没有hao li的照片网络地址 => ${#person}=hao li =>  image => {"return_type": "image", "mainEntity": "hao li", "slots": [{"op": "eq", "name": "${#person}", "value": "hao li"}]}
+
+小鹿姐姐课题有哪一些 => ${#person}=小鹿姐姐 =>  field_of_work => {"return_type": "field_of_work", "mainEntity": "小鹿姐姐", "slots": [{"op": "eq", "name": "${#person}", "value": "小鹿姐姐"}]}
+
+刘轩科研方向都是些啥 => ${#person}=刘轩 =>  field_of_work => {"return_type": "field_of_work", "mainEntity": "刘轩", "slots": [{"op": "eq", "name": "${#person}", "value": "刘轩"}]}
+
+有哪群人的研究课题包含语言模型 => field_of_work=语言模型 =>  ${#person} => {"return_type": "${#person}", "mainEntity": "", "slots": [{"op": "eq", "name": "field_of_work", "value": "语言模型"}]}
+
+从事与语义理解相关的成员是哪些 => field_of_work=语义理解 =>  ${#person} => {"return_type": "${#person}", "mainEntity": "", "slots": [{"op": "eq", "name": "field_of_work", "value": "语义理解"}]}
+
+有jianfei gao发的文章 => ${#person}=jianfei gao =>  publication => {"return_type": "publication", "mainEntity": "jianfei gao", "slots": [{"op": "eq", "name": "${#person}", "value": "jianfei gao"}]}
+
+是不是有一篇mengyue wu文献 => ${#person}=mengyue wu =>  publication => {"return_type": "publication", "mainEntity": "mengyue wu", "slots": [{"op": "eq", "name": "${#person}", "value": "mengyue wu"}]}
+
+mengxiao bi二零一九年投过哪些文献 => ${#person}=mengxiao bi , publication_date=二零一九年 =>  publication => {"return_type": "publication", "mainEntity": "mengxiao bi", "slots": [{"op": "eq", "name": "${#person}", "value": "mengxiao bi"}, {"op": "eq", "name": "publication_date", "value": "二零一九年"}]}
+
+在两00两年有没有一些kai sun中了的文章 => ${#person}=kai sun , publication_date=两00两年 =>  publication => {"return_type": "publication", "mainEntity": "kai sun", "slots": [{"op": "eq", "name": "${#person}", "value": "kai sun"}, {"op": "eq", "name": "publication_date", "value": "两00两年"}]}
+
+谭天有些什么cnccl发表了的paper => ${#person}=谭天 , published_in=cnccl =>  publication => {"return_type": "publication", "mainEntity": "谭天", "slots": [{"op": "eq", "name": "${#person}", "value": "谭天"}, {"op": "eq", "name": "published_in", "value": "cnccl"}]}
+
+有无一篇在ijcai会议钱教授发表了的文献 => ${#person}=钱教授 , published_in=ijcai =>  publication => {"return_type": "publication", "mainEntity": "钱教授", "slots": [{"op": "eq", "name": "${#person}", "value": "钱教授"}, {"op": "eq", "name": "published_in", "value": "ijcai"}]}
+
+在二零1二是不是有些尹茂帆撰写于ecai会议paper => ${#person}=尹茂帆 , publication_date=二零1二 , published_in=ecai =>  publication => {"return_type": "publication", "mainEntity": "尹茂帆", "slots": [{"op": "eq", "name": "${#person}", "value": "尹茂帆"}, {"op": "eq", "name": "publication_date", "value": "二零1二"}, {"op": "eq", "name": "published_in", "value": "ecai"}]}
+
+于二0零三刘媛都有哪些于slt会议上投中过文献 => ${#person}=刘媛 , publication_date=二0零三 , published_in=slt =>  publication => {"return_type": "publication", "mainEntity": "刘媛", "slots": [{"op": "eq", "name": "${#person}", "value": "刘媛"}, {"op": "eq", "name": "publication_date", "value": "二0零三"}, {"op": "eq", "name": "published_in", "value": "slt"}]}
+
+在2零一0年邓力于emnlp会议撰写哪几篇文章 => ${#person}=邓力 , publication_date=2零一0年 , published_in=emnlp =>  publication => {"return_type": "publication", "mainEntity": "邓力", "slots": [{"op": "eq", "name": "${#person}", "value": "邓力"}, {"op": "eq", "name": "publication_date", "value": "2零一0年"}, {"op": "eq", "name": "published_in", "value": "emnlp"}]}
+
+于201九周瑛ecai会议上发过哪几篇paper => ${#person}=周瑛 , publication_date=201九 , published_in=ecai =>  publication => {"return_type": "publication", "mainEntity": "周瑛", "slots": [{"op": "eq", "name": "${#person}", "value": "周瑛"}, {"op": "eq", "name": "publication_date", "value": "201九"}, {"op": "eq", "name": "published_in", "value": "ecai"}]}
+
+mlp-hmm two-stage unsupervised training for low-resource languages on conversational telephone speech recognition这一个paper的标题是什么 => ${#paper}=mlp-hmm two-stage unsupervised training for low-resource languages on conversational telephone speech recognition =>  title => {"return_type": "title", "mainEntity": "mlp-hmm two-stage unsupervised training for low-resource languages on conversational telephone speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "mlp-hmm two-stage unsupervised training for low-resource languages on conversational telephone speech recognition"}]}
+
+comparison of modeling target in lstm-rnn duration model这篇论文完整名称是啥 => ${#paper}=comparison of modeling target in lstm-rnn duration model =>  title => {"return_type": "title", "mainEntity": "comparison of modeling target in lstm-rnn duration model", "slots": [{"op": "eq", "name": "${#paper}", "value": "comparison of modeling target in lstm-rnn duration model"}]}
+
+affordable on-line dialogue policy learning这一个文章主要讨论了什么新颖的思路 => ${#paper}=affordable on-line dialogue policy learning =>  abstract => {"return_type": "abstract", "mainEntity": "affordable on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "affordable on-line dialogue policy learning"}]}
+
+what does the speaker embedding encode这一篇论文大概提出的是什么想法 => ${#paper}=what does the speaker embedding encode =>  abstract => {"return_type": "abstract", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+
+integrating online i-vector into gmm-ubm for text-dependent speaker verification文章发表时间啥时候 => ${#paper}=integrating online i-vector into gmm-ubm for text-dependent speaker verification =>  publication_date => {"return_type": "publication_date", "mainEntity": "integrating online i-vector into gmm-ubm for text-dependent speaker verification", "slots": [{"op": "eq", "name": "${#paper}", "value": "integrating online i-vector into gmm-ubm for text-dependent speaker verification"}]}
+
+a generalized rule based tracker for dialogue state tracking这一篇paper撰写时间是哪一天 => ${#paper}=a generalized rule based tracker for dialogue state tracking =>  publication_date => {"return_type": "publication_date", "mainEntity": "a generalized rule based tracker for dialogue state tracking", "slots": [{"op": "eq", "name": "${#paper}", "value": "a generalized rule based tracker for dialogue state tracking"}]}
+
+combination of data borrowing strategies for low-resource lvcsr文献发表于哪一个会议上 => ${#paper}=combination of data borrowing strategies for low-resource lvcsr =>  published_in => {"return_type": "published_in", "mainEntity": "combination of data borrowing strategies for low-resource lvcsr", "slots": [{"op": "eq", "name": "${#paper}", "value": "combination of data borrowing strategies for low-resource lvcsr"}]}
+
+recurrent neural network language model with structured word embeddings for speech recognition这一篇文章是哪一本期刊上刊登 => ${#paper}=recurrent neural network language model with structured word embeddings for speech recognition =>  published_in => {"return_type": "published_in", "mainEntity": "recurrent neural network language model with structured word embeddings for speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "recurrent neural network language model with structured word embeddings for speech recognition"}]}
+
+我哪里能够阅读agent-aware dropout dqn for safe and efficient on-line dialogue policy learning这一篇paper => ${#paper}=agent-aware dropout dqn for safe and efficient on-line dialogue policy learning =>  link => {"return_type": "link", "mainEntity": "agent-aware dropout dqn for safe and efficient on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "agent-aware dropout dqn for safe and efficient on-line dialogue policy learning"}]}
+
+在哪一个链接可以阅读automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition文章 => ${#paper}=automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition =>  link => {"return_type": "link", "mainEntity": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition"}]}
+
+cognitive technology in task-oriented dialogue systems–concepts,advances and future学术成果获取了重大成就是哪几个 => ${#paper}=cognitive technology in task-oriented dialogue systems–concepts,advances and future =>  award => {"return_type": "award", "mainEntity": "cognitive technology in task-oriented dialogue systems–concepts,advances and future", "slots": [{"op": "eq", "name": "${#paper}", "value": "cognitive technology in task-oriented dialogue systems–concepts,advances and future"}]}
+
+acoustic emotion recognition using deep neural network这个paper取得了的国际性的成就都是哪几个 => ${#paper}=acoustic emotion recognition using deep neural network =>  award => {"return_type": "award", "mainEntity": "acoustic emotion recognition using deep neural network", "slots": [{"op": "eq", "name": "${#paper}", "value": "acoustic emotion recognition using deep neural network"}]}
+
+都有哪几个人参加发表recurrent polynomial network for dialogue state tracking with mismatched semantic parsers这一篇文献 => ${#paper}=recurrent polynomial network for dialogue state tracking with mismatched semantic parsers =>  author => {"return_type": "author", "mainEntity": "recurrent polynomial network for dialogue state tracking with mismatched semantic parsers", "slots": [{"op": "eq", "name": "${#paper}", "value": "recurrent polynomial network for dialogue state tracking with mismatched semantic parsers"}]}
+
+是哪一人写的icmi'12grand challenge-haptic voice recognition这个文章 => ${#paper}=icmi'12grand challenge-haptic voice recognition =>  author => {"return_type": "author", "mainEntity": "icmi'12grand challenge-haptic voice recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "icmi'12grand challenge-haptic voice recognition"}]}
+
+discrete duration model for speech synthesis这一个文章第一作者是谁 => ${#paper}=discrete duration model for speech synthesis =>  first_author => {"return_type": "first_author", "mainEntity": "discrete duration model for speech synthesis", "slots": [{"op": "eq", "name": "${#paper}", "value": "discrete duration model for speech synthesis"}]}
+
+什么人是cluster adaptive training for deep neural network based acoustic model这个文献第一作者 => ${#paper}=cluster adaptive training for deep neural network based acoustic model =>  first_author => {"return_type": "first_author", "mainEntity": "cluster adaptive training for deep neural network based acoustic model", "slots": [{"op": "eq", "name": "${#paper}", "value": "cluster adaptive training for deep neural network based acoustic model"}]}
+
+哪一个机构内的人员发表的what does the speaker embedding encode这一个paper => ${#paper}=what does the speaker embedding encode =>  institute_place => {"return_type": "institute_place", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+
+speaker-aware training of lstm-rnns for acoustic modeling这个文章由哪一家组织的学者投中 => ${#paper}=speaker-aware training of lstm-rnns for acoustic modeling =>  institute_place => {"return_type": "institute_place", "mainEntity": "speaker-aware training of lstm-rnns for acoustic modeling", "slots": [{"op": "eq", "name": "${#paper}", "value": "speaker-aware training of lstm-rnns for acoustic modeling"}]}
+
+关于思必驰纠错哥这款产品各方面阐述 => ${#demo}=思必驰纠错哥 =>  description => {"return_type": "description", "mainEntity": "思必驰纠错哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰纠错哥"}]}
+
+各方面地介绍思必驰语音输入板这一项产品 => ${#demo}=思必驰语音输入板 =>  description => {"return_type": "description", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+
+思必驰纠正哥这一个产品的download网站地址哪儿有 => ${#demo}=思必驰纠正哥 =>  link => {"return_type": "link", "mainEntity": "思必驰纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰纠正哥"}]}
+
+在哪里才能够获取纠正哥这款产品 => ${#demo}=纠正哥 =>  link => {"return_type": "link", "mainEntity": "纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "纠正哥"}]}
+
+输入板这个产品的产品类别 => ${#demo}=输入板 =>  production_type => {"return_type": "production_type", "mainEntity": "输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "输入板"}]}
+
+纠正哥这个demo的产品分类是什么 => ${#demo}=纠正哥 =>  production_type => {"return_type": "production_type", "mainEntity": "纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "纠正哥"}]}
+
+mobile checkin这项demo的大概的推出的大致年份是哪年 => ${#demo}=mobile checkin =>  inception => {"return_type": "inception", "mainEntity": "mobile checkin", "slots": [{"op": "eq", "name": "${#demo}", "value": "mobile checkin"}]}
+
+语音纠错哥这项产品具体推出的时间是什么 => ${#demo}=语音纠错哥 =>  inception => {"return_type": "inception", "mainEntity": "语音纠错哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音纠错哥"}]}
+
+思必驰语音输入板demo是都关于了哪一领域知识 => ${#demo}=思必驰语音输入板 =>  technology => {"return_type": "technology", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+
+语音纠正哥这一个产品具体和哪些领域的技术有关 => ${#demo}=语音纠正哥 =>  technology => {"return_type": "technology", "mainEntity": "语音纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音纠正哥"}]}
+
+都有些什么产品运用了对话系统类领域 => technology=对话系统类 =>  ${#demo} => {"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "对话系统类"}]}
+
+都有些啥产品与说话人识别这一方向相关 => technology=说话人识别 =>  ${#demo} => {"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "说话人识别"}]}
+
+方方面面谈一谈语言模型方向这一领域 => ${#concept}=语言模型方向 =>  description => {"return_type": "description", "mainEntity": "语言模型方向", "slots": [{"op": "eq", "name": "${#concept}", "value": "语言模型方向"}]}
+
+全方面描述一下语义方面这个领域的知识 => ${#concept}=语义方面 =>  description => {"return_type": "description", "mainEntity": "语义方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "语义方面"}]}
+
+音频分析类这一方面的方向提出来在何年 => ${#concept}=音频分析类 =>  inception => {"return_type": "inception", "mainEntity": "音频分析类", "slots": [{"op": "eq", "name": "${#concept}", "value": "音频分析类"}]}
+
+最早出现语音唤醒类这方面知识是在何年 => ${#concept}=语音唤醒类 =>  inception => {"return_type": "inception", "mainEntity": "语音唤醒类", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音唤醒类"}]}
+
+丰富音频这一方面的概念相关网站链接在哪里有 => ${#concept}=丰富音频 =>  link => {"return_type": "link", "mainEntity": "丰富音频", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频"}]}
+
+对话动作方面名词相关网页地址哪里 => ${#concept}=对话动作方面 =>  link => {"return_type": "link", "mainEntity": "对话动作方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "对话动作方面"}]}
+
+有些什么解码器有关的代表性成员 => ${#concept}=解码器 =>  persons => {"return_type": "persons", "mainEntity": "解码器", "slots": [{"op": "eq", "name": "${#concept}", "value": "解码器"}]}
+
+音频处理相关的有代表性搞科研的有哪几个人 => ${#concept}=音频处理 =>  persons => {"return_type": "persons", "mainEntity": "音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "音频处理"}]}
+
+是哪几篇应用丰富音频处理文章 => ${#concept}=丰富音频处理 =>  publication => {"return_type": "publication", "mainEntity": "丰富音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频处理"}]}
+
+都有多少运用语义理解方面的期刊 => ${#concept}=语义理解方面 =>  publication => {"return_type": "publication", "mainEntity": "语义理解方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "语义理解方面"}]}
+
+深度学习语音识别实践这一本书的标题是啥 => ${#book}=深度学习语音识别实践 =>  title => {"return_type": "title", "mainEntity": "深度学习语音识别实践", "slots": [{"op": "eq", "name": "${#book}", "value": "深度学习语音识别实践"}]}
+
+深度结构这部经典的完整全名是什么 => ${#book}=深度结构 =>  title => {"return_type": "title", "mainEntity": "深度结构", "slots": [{"op": "eq", "name": "${#book}", "value": "深度结构"}]}
+
+解析深度学习这本经典是哪一个出版社出售的 => ${#book}=解析深度学习 =>  publisher => {"return_type": "publisher", "mainEntity": "解析深度学习", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习"}]}
+
+automatic speech recognition a deep learning approach什么出版单位出版的 => ${#book}=automatic speech recognition a deep learning approach =>  publisher => {"return_type": "publisher", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+
+有木有解析深度学习语音识别实践的在线阅读网页链接 => ${#book}=解析深度学习语音识别实践 =>  link => {"return_type": "link", "mainEntity": "解析深度学习语音识别实践", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习语音识别实践"}]}
+
+我在哪个网络链接可以下载到leaning deep architectures for ai这一本书 => ${#book}=leaning deep architectures for ai =>  link => {"return_type": "link", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+
+解析深度学习这部经典的准确出售的具体年份是哪一年 => ${#book}=解析深度学习 =>  publication_date => {"return_type": "publication_date", "mainEntity": "解析深度学习", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习"}]}
+
+leaning deep architecture for ai这一部经典书籍准确出版大致时间 => ${#book}=leaning deep architecture for ai =>  publication_date => {"return_type": "publication_date", "mainEntity": "leaning deep architecture for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architecture for ai"}]}
+
+深度结构学习这本作品是主创还是翻译作品 => ${#book}=深度结构学习 =>  contribution => {"return_type": "contribution", "mainEntity": "深度结构学习", "slots": [{"op": "eq", "name": "${#book}", "value": "深度结构学习"}]}
+
+leaning deep architectures for ai这一本书是原创的 => ${#book}=leaning deep architectures for ai =>  contribution => {"return_type": "contribution", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+
+原作作品是哪几个 => contribution=原作 =>  ${#book} => {"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "原作"}]}
+
+翻译著作有哪些 => contribution=翻译 =>  ${#book} => {"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "翻译"}]}
+
+译了automatic speech recognition a deep learning approach这本著作译者是谁 => ${#book}=automatic speech recognition a deep learning approach =>  translator => {"return_type": "translator", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+
+leaning deep architectures for ai这本著作是哪个译的 => ${#book}=leaning deep architectures for ai =>  translator => {"return_type": "translator", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+
+完成leaning deep architecture for ai这部著作的原创作者哪一个人 => ${#book}=leaning deep architecture for ai =>  author => {"return_type": "author", "mainEntity": "leaning deep architecture for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architecture for ai"}]}
+
+撰写深度学习结构这本著作人哪几个人 => ${#book}=深度学习结构 =>  author => {"return_type": "author", "mainEntity": "深度学习结构", "slots": [{"op": "eq", "name": "${#book}", "value": "深度学习结构"}]}
+
+一种基于人机交互的数字串的纠正方法及装置这项发明专利独有识别号 => ${#patent}=一种基于人机交互的数字串的纠正方法及装置 =>  patent_id => {"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+
+一种基于人机交互的数字串的纠正方法及装置这一项专利发明i d是什么 => ${#patent}=一种基于人机交互的数字串的纠正方法及装置 =>  patent_id => {"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+
+各方面描述一下数字串的纠正方法及装置这一专利 => ${#patent}=数字串的纠正方法及装置 =>  description => {"return_type": "description", "mainEntity": "数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串的纠正方法及装置"}]}
+
+一种基于人机交互的数字串的纠正方法及装置究竟能够干啥 => ${#patent}=一种基于人机交互的数字串的纠正方法及装置 =>  description => {"return_type": "description", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+
+数字串纠正方法及装置这一个发明专利的发明人哪些 => ${#patent}=数字串纠正方法及装置 =>  author => {"return_type": "author", "mainEntity": "数字串纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法及装置"}]}
+
+发明了数字串纠正方法这个专利的人是谁 => ${#patent}=数字串纠正方法 =>  author => {"return_type": "author", "mainEntity": "数字串纠正方法", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法"}]}
+
+数字串纠正装置专利具体是使用了哪些方面的技术 => ${#patent}=数字串纠正装置 =>  technology => {"return_type": "technology", "mainEntity": "数字串纠正装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正装置"}]}
+
+基于人机交互的数字串的纠正方法及装置这一项成果具体涉及哪方向知识 => ${#patent}=基于人机交互的数字串的纠正方法及装置 =>  technology => {"return_type": "technology", "mainEntity": "基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "基于人机交互的数字串的纠正方法及装置"}]}
+
+跟语义技术相关发明专利都是什么 => technology=语义 =>  ${#patent} => {"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语义"}]}
+
+和丰富音频处理类知识相关专利有哪个 => technology=丰富音频处理类 =>  ${#patent} => {"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "丰富音频处理类"}]}
+
+俞凯 => ${#person}=俞凯 =>  nil => {"return_type": "nil", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}]}
+
+语言模型 => ${#concept}=语言模型 =>  nil => {"return_type": "nil", "mainEntity": "lm", "slots": [{"op": "eq", "name": "${#concept}", "value": "语言模型"}]}
+

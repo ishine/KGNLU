@@ -1,0 +1,8449 @@
+
+description
+{"return_type": "description", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+简	O
+单	O
+地	O
+介	O
+绍	O
+一	O
+下	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+情	O
+况	O
+
+ambition
+{"return_type": "ambition", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+计	O
+划	O
+
+ambition
+{"return_type": "ambition", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+big	O
+picture	O
+是	O
+什	O
+么	O
+
+inception
+{"return_type": "inception", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+成	O
+立	O
+时	O
+间	O
+是	O
+什	O
+么	O
+时	O
+候	O
+
+inception
+{"return_type": "inception", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}]}
+你	B-${#institute}
+们	I-${#institute}
+建	O
+立	O
+几	O
+年	O
+
+inception
+{"return_type": "inception", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+是	O
+什	O
+么	O
+时	O
+候	O
+建	O
+立	O
+的	O
+
+location
+{"return_type": "location", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+哪	O
+
+country
+{"return_type": "country", "mainEntity": "贝尔实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "贝尔实验室"}]}
+贝	B-${#institute}
+尔	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+是	O
+在	O
+哪	O
+个	O
+国	O
+家	O
+成	O
+立	O
+的	O
+
+award
+{"return_type": "award", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+都	O
+得	O
+过	O
+什	O
+么	O
+荣	O
+誉	O
+
+award
+{"return_type": "award", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+荣	O
+誉	O
+
+culture
+{"return_type": "culture", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}]}
+语	B-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+是	O
+不	O
+是	O
+有	O
+自	O
+己	O
+特	O
+有	O
+的	O
+文	O
+化	O
+氛	O
+围	O
+
+culture
+{"return_type": "culture", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+规	O
+矩	O
+
+culture
+{"return_type": "culture", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}]}
+语	B-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+实	O
+验	O
+室	O
+文	O
+化	O
+是	O
+什	O
+么	O
+
+employees
+{"return_type": "employees", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}]}
+你	B-${#institute}
+们	I-${#institute}
+总	O
+共	O
+几	O
+个	O
+人	O
+
+image
+{"return_type": "image", "mainEntity": "华师大", "slots": [{"op": "eq", "name": "${#institute}", "value": "华师大"}]}
+华	B-${#institute}
+师	I-${#institute}
+大	I-${#institute}
+的	O
+内	O
+部	O
+照	O
+片	O
+
+image
+{"return_type": "image", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+照	O
+片	O
+来	O
+几	O
+张	O
+
+direction
+{"return_type": "direction", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+主	O
+要	O
+研	O
+究	O
+领	O
+域	O
+是	O
+哪	O
+几	O
+个	O
+
+direction
+{"return_type": "direction", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}]}
+你	B-${#institute}
+们	I-${#institute}
+研	O
+究	O
+啥	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "语音识别"}]}
+都	O
+有	O
+哪	O
+几	O
+个	O
+实	O
+验	O
+室	O
+做	O
+语	B-direction
+音	I-direction
+识	I-direction
+别	I-direction
+方	O
+向	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "语音合成"}]}
+有	O
+哪	O
+些	O
+实	O
+验	O
+室	O
+是	O
+研	O
+究	O
+语	B-direction
+音	I-direction
+合	I-direction
+成	I-direction
+方	O
+向	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+几	O
+个	O
+人	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+最	O
+近	O
+有	O
+什	O
+么	O
+人	O
+加	O
+入	O
+到	O
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+
+member
+{"return_type": "member", "mainEntity": "隔壁实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "隔壁实验室"}]}
+有	O
+哪	O
+些	O
+人	O
+加	O
+入	O
+了	O
+隔	B-${#institute}
+壁	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+
+member
+{"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "identity", "value": "老师"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+都	O
+有	O
+哪	O
+些	O
+老	B-identity
+师	I-identity
+
+member
+{"return_type": "member", "mainEntity": "隔壁e-learning实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "隔壁e-learning实验室"}, {"op": "eq", "name": "year_of_join", "value": "2017年"}]}
+隔	B-${#institute}
+壁	I-${#institute}
+e	I-${#institute}
+-	I-${#institute}
+learning	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+都	O
+有	O
+啥	O
+成	O
+员	O
+是	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+7	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "2015年"}]}
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+5	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+到	O
+语	B-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+是	O
+哪	O
+些	O
+人	O
+
+member
+{"return_type": "member", "mainEntity": "你们智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "2017年"}]}
+有	O
+什	O
+么	O
+人	O
+是	O
+在	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+7	I-year_of_join
+年	I-year_of_join
+才	O
+加	O
+入	O
+你	B-${#institute}
+们	I-${#institute}
+智	I-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "identity", "value": "学术大佬"}, {"op": "eq", "name": "year_of_join", "value": "2018年"}]}
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+8	I-year_of_join
+年	I-year_of_join
+有	O
+什	O
+么	O
+学	B-identity
+术	I-identity
+大	I-identity
+佬	I-identity
+加	O
+入	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "year_of_join", "value": "2018年"}, {"op": "eq", "name": "identity", "value": "科研助理"}]}
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+8	I-year_of_join
+年	I-year_of_join
+新	O
+加	O
+入	O
+到	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+科	B-identity
+研	I-identity
+助	I-identity
+理	I-identity
+是	O
+谁	O
+
+member
+{"return_type": "member", "mainEntity": "中科院", "slots": [{"op": "eq", "name": "${#institute}", "value": "中科院"}, {"op": "eq", "name": "year_of_join", "value": "2016"}, {"op": "eq", "name": "identity", "value": "科研助理"}]}
+有	O
+哪	O
+些	O
+在	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+6	I-year_of_join
+年	O
+加	O
+入	O
+中	B-${#institute}
+科	I-${#institute}
+院	I-${#institute}
+的	O
+科	B-identity
+研	I-identity
+助	I-identity
+理	I-identity
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "field_of_work", "value": "对话系统"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+谁	O
+研	O
+究	O
+对	B-field_of_work
+话	I-field_of_work
+系	I-field_of_work
+统	I-field_of_work
+的	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "field_of_work", "value": "对话管理"}, {"op": "eq", "name": "identity", "value": "毕业的同学"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+已	O
+经	O
+毕	B-identity
+业	I-identity
+的	I-identity
+同	I-identity
+学	I-identity
+里	O
+有	O
+哪	O
+些	O
+之	O
+前	O
+是	O
+搞	O
+对	B-field_of_work
+话	I-field_of_work
+管	I-field_of_work
+理	I-field_of_work
+的	O
+
+member
+{"return_type": "member", "mainEntity": "科技馆", "slots": [{"op": "eq", "name": "${#institute}", "value": "科技馆"}, {"op": "eq", "name": "field_of_work", "value": "语音识别"}, {"op": "eq", "name": "identity", "value": "在读学生"}]}
+科	B-${#institute}
+技	I-${#institute}
+馆	I-${#institute}
+里	O
+有	O
+搞	O
+有	O
+关	O
+语	B-field_of_work
+音	I-field_of_work
+识	I-field_of_work
+别	I-field_of_work
+的	O
+在	B-identity
+读	I-identity
+学	I-identity
+生	I-identity
+
+member
+{"return_type": "member", "mainEntity": "剑桥", "slots": [{"op": "eq", "name": "${#institute}", "value": "剑桥"}, {"op": "eq", "name": "identity", "value": "学生"}, {"op": "eq", "name": "field_of_work", "value": "语音识别"}]}
+剑	B-${#institute}
+桥	I-${#institute}
+那	O
+边	O
+有	O
+哪	O
+些	O
+学	B-identity
+生	I-identity
+是	O
+搞	O
+语	B-field_of_work
+音	I-field_of_work
+识	I-field_of_work
+别	I-field_of_work
+有	O
+关	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "identity", "value": "博士"}, {"op": "eq", "name": "field_of_work", "value": "语义"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+几	O
+个	O
+博	B-identity
+士	I-identity
+做	O
+语	B-field_of_work
+义	I-field_of_work
+的	O
+
+member
+{"return_type": "member", "mainEntity": "对话管理实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "对话管理实验室"}, {"op": "eq", "name": "identity", "value": "研究生"}, {"op": "eq", "name": "field_of_work", "value": "对话系统"}]}
+对	B-${#institute}
+话	I-${#institute}
+管	I-${#institute}
+理	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+面	O
+有	O
+哪	O
+几	O
+个	O
+研	B-identity
+究	I-identity
+生	I-identity
+是	O
+做	O
+对	B-field_of_work
+话	I-field_of_work
+系	I-field_of_work
+统	I-field_of_work
+有	O
+关	O
+的	O
+研	O
+究	O
+
+member
+{"return_type": "member", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}, {"op": "eq", "name": "educated_at", "value": "外校"}]}
+speechlab	B-${#institute}
+中	O
+外	B-educated_at
+校	I-educated_at
+转	O
+来	O
+几	O
+个	O
+人	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "educated_at", "value": "西安交通大学"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+毕	O
+业	O
+于	O
+西	B-educated_at
+安	I-educated_at
+交	I-educated_at
+通	I-educated_at
+大	I-educated_at
+学	I-educated_at
+的	O
+人	O
+有	O
+
+member
+{"return_type": "member", "mainEntity": "研究院", "slots": [{"op": "eq", "name": "${#institute}", "value": "研究院"}, {"op": "eq", "name": "gender", "value": "女的"}]}
+研	B-${#institute}
+究	I-${#institute}
+院	I-${#institute}
+的	O
+女	B-gender
+的	I-gender
+都	O
+是	O
+什	O
+么	O
+人	O
+
+member
+{"return_type": "member", "mainEntity": "中科院", "slots": [{"op": "eq", "name": "${#institute}", "value": "中科院"}, {"op": "eq", "name": "gender", "value": "男生"}]}
+中	B-${#institute}
+科	I-${#institute}
+院	I-${#institute}
+有	O
+哪	O
+里	O
+男	B-gender
+生	I-gender
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "country_of_citizen", "value": "外国"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+外	B-country_of_citizen
+国	I-country_of_citizen
+人	O
+
+member
+{"return_type": "member", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "country_of_citizen", "value": "出国"}]}
+你	B-${#institute}
+们	I-${#institute}
+出	B-country_of_citizen
+国	I-country_of_citizen
+比	O
+例	O
+
+member
+{"return_type": "member", "mainEntity": "中科院", "slots": [{"op": "eq", "name": "${#institute}", "value": "中科院"}, {"op": "eq", "name": "country_of_citizen", "value": "国外"}]}
+中	B-${#institute}
+科	I-${#institute}
+院	I-${#institute}
+里	O
+面	O
+在	O
+国	B-country_of_citizen
+外	I-country_of_citizen
+搞	O
+科	O
+研	O
+的	O
+有	O
+多	O
+少	O
+
+papers
+{"return_type": "papers", "mainEntity": "laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "laboratory"}, {"op": "eq", "name": "publication_date", "value": "2017年"}]}
+laboratory	B-${#institute}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+7	I-publication_date
+年	I-publication_date
+有	O
+哪	O
+些	O
+发	O
+表	O
+的	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "隔壁实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "隔壁实验室"}, {"op": "eq", "name": "published_in", "value": "emnlp"}]}
+隔	B-${#institute}
+壁	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+emnlp	B-published_in
+回	O
+忆	O
+发	O
+了	O
+哪	O
+些	O
+paper	O
+
+papers
+{"return_type": "papers", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "publication_date", "value": "2018"}, {"op": "eq", "name": "published_in", "value": "acl"}]}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+8	I-publication_date
+年	O
+的	O
+acl	B-published_in
+会	O
+上	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+吗	O
+一	O
+些	O
+刊	O
+登	O
+过	O
+的	O
+paper	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "publication_date", "value": "2018年"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+8	I-publication_date
+年	I-publication_date
+icassp	B-published_in
+上	O
+发	O
+表	O
+的	O
+论	O
+文	O
+有	O
+哪	O
+些	O
+
+books
+{"return_type": "books", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+出	O
+了	O
+哪	O
+些	O
+书	O
+
+books
+{"return_type": "books", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "publication_date", "value": "17年"}]}
+1	B-publication_date
+7	I-publication_date
+年	I-publication_date
+你	B-${#institute}
+们	I-${#institute}
+有	O
+哪	O
+些	O
+论	O
+文	O
+
+books
+{"return_type": "books", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "publication_date", "value": "2015年"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+5	I-publication_date
+年	I-publication_date
+出	O
+版	O
+的	O
+你	B-${#institute}
+们	I-${#institute}
+的	O
+书	O
+有	O
+哪	O
+些	O
+
+books
+{"return_type": "books", "mainEntity": "北京", "slots": [{"op": "eq", "name": "${#institute}", "value": "北京"}, {"op": "eq", "name": "contribution", "value": "主创的"}]}
+北	B-${#institute}
+京	I-${#institute}
+的	O
+代	O
+表	O
+性	O
+的	O
+主	B-contribution
+创	I-contribution
+的	I-contribution
+经	O
+典	O
+作	O
+品	O
+是	O
+哪	O
+几	O
+个	O
+
+books
+{"return_type": "books", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "contribution", "value": "翻"}]}
+你	B-${#institute}
+们	I-${#institute}
+都	O
+翻	B-contribution
+了	O
+哪	O
+些	O
+书	O
+
+books
+{"return_type": "books", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "publication_date", "value": "15年"}, {"op": "eq", "name": "contribution", "value": "一作"}]}
+你	B-${#institute}
+们	I-${#institute}
+1	B-publication_date
+5	I-publication_date
+年	I-publication_date
+有	O
+哪	O
+些	O
+一	B-contribution
+作	I-contribution
+论	O
+文	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+什	O
+么	O
+demo	O
+拿	O
+来	O
+看	O
+看	O
+
+demos
+{"return_type": "demos", "mainEntity": "隔壁实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "隔壁实验室"}]}
+隔	B-${#institute}
+壁	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+没	O
+有	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "inception", "value": "2017年"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+2	B-inception
+0	I-inception
+1	I-inception
+7	I-inception
+年	I-inception
+发	O
+布	O
+了	O
+哪	O
+些	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "inception", "value": "2018年"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+2	B-inception
+0	I-inception
+1	I-inception
+8	I-inception
+年	I-inception
+做	O
+了	O
+哪	O
+些	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们那里", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那里"}, {"op": "eq", "name": "technology", "value": "语音合成"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+里	I-${#institute}
+有	O
+哪	O
+些	O
+产	O
+品	O
+用	O
+到	O
+了	O
+语	B-technology
+音	I-technology
+合	I-technology
+成	I-technology
+
+demos
+{"return_type": "demos", "mainEntity": "你们那边", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那边"}, {"op": "eq", "name": "technology", "value": "语音识别"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+边	I-${#institute}
+都	O
+有	O
+什	O
+么	O
+涉	O
+及	O
+语	B-technology
+音	I-technology
+识	I-technology
+别	I-technology
+的	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+你	B-${#institute}
+们	I-${#institute}
+有	O
+哪	O
+些	O
+对	B-production_type
+话	I-production_type
+平	I-production_type
+台	I-production_type
+的	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "production_type", "value": "导航"}]}
+你	B-${#institute}
+们	I-${#institute}
+导	B-production_type
+航	I-production_type
+有	O
+啥	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "inception", "value": "明年"}, {"op": "eq", "name": "production_type", "value": "app"}]}
+明	B-inception
+年	I-inception
+你	B-${#institute}
+们	I-${#institute}
+有	O
+什	O
+么	O
+计	O
+划	O
+app	B-production_type
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "inception", "value": "2017年"}, {"op": "eq", "name": "production_type", "value": "app"}]}
+2	B-inception
+0	I-inception
+1	I-inception
+7	I-inception
+年	I-inception
+你	B-${#institute}
+们	I-${#institute}
+做	O
+的	O
+app	B-production_type
+类	O
+型	O
+的	O
+demo	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "inception", "value": "去年"}, {"op": "eq", "name": "production_type", "value": "导航"}]}
+你	B-${#institute}
+们	I-${#institute}
+去	B-inception
+年	I-inception
+的	O
+导	B-production_type
+航	I-production_type
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "inception", "value": "2017年"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-inception
+0	I-inception
+1	I-inception
+7	I-inception
+年	I-inception
+做	O
+了	O
+什	O
+么	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "technology", "value": "语音合成"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+使	O
+用	O
+了	O
+语	B-technology
+音	I-technology
+合	I-technology
+成	I-technology
+的	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+产	O
+品	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "inception", "value": "2012年"}, {"op": "eq", "name": "technology", "value": "统计对话管理"}, {"op": "eq", "name": "production_type", "value": "对话机器人"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-inception
+0	I-inception
+1	I-inception
+2	I-inception
+年	I-inception
+都	O
+有	O
+哪	O
+些	O
+运	O
+用	O
+了	O
+统	B-technology
+计	I-technology
+对	I-technology
+话	I-technology
+管	I-technology
+理	I-technology
+技	O
+术	O
+的	O
+对	B-production_type
+话	I-production_type
+机	I-production_type
+器	I-production_type
+人	I-production_type
+demo	O
+
+patents
+{"return_type": "patents", "mainEntity": "隔壁实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "隔壁实验室"}]}
+隔	B-${#institute}
+壁	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+专	O
+利	O
+
+patents
+{"return_type": "patents", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "technology", "value": "语义理解"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+语	B-technology
+义	I-technology
+理	I-technology
+解	I-technology
+的	O
+研	O
+究	O
+成	O
+果	O
+
+patents
+{"return_type": "patents", "mainEntity": "教育部", "slots": [{"op": "eq", "name": "${#institute}", "value": "教育部"}, {"op": "eq", "name": "technology", "value": "语音合成"}]}
+教	B-${#institute}
+育	I-${#institute}
+部	I-${#institute}
+跟	O
+语	B-technology
+音	I-technology
+合	I-technology
+成	I-technology
+有	O
+关	O
+的	O
+专	O
+利	O
+成	O
+果	O
+有	O
+哪	O
+些	O
+
+patents
+{"return_type": "patents", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+语	B-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+相	O
+关	O
+的	O
+专	O
+利	O
+
+gender
+{"return_type": "gender", "mainEntity": "陈博", "slots": [{"op": "eq", "name": "${#person}", "value": "陈博"}]}
+陈	B-${#person}
+博	I-${#person}
+结	O
+婚	O
+
+gender
+{"return_type": "gender", "mainEntity": "钱老师", "slots": [{"op": "eq", "name": "${#person}", "value": "钱老师"}]}
+钱	B-${#person}
+老	I-${#person}
+师	I-${#person}
+有	O
+几	O
+个	O
+孩	O
+子	O
+
+place_of_birth
+{"return_type": "place_of_birth", "mainEntity": "宽少", "slots": [{"op": "eq", "name": "${#person}", "value": "宽少"}]}
+宽	B-${#person}
+少	I-${#person}
+的	O
+老	O
+家	O
+在	O
+哪	O
+个	O
+省	O
+
+place_of_birth
+{"return_type": "place_of_birth", "mainEntity": "刘辰", "slots": [{"op": "eq", "name": "${#person}", "value": "刘辰"}]}
+刘	B-${#person}
+辰	I-${#person}
+是	O
+哪	O
+里	O
+人	O
+
+country_of_citizen
+{"return_type": "country_of_citizen", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}]}
+俞	B-${#person}
+凯	I-${#person}
+几	O
+岁	O
+
+year_of_join
+{"return_type": "year_of_join", "mainEntity": "xuankai chang", "slots": [{"op": "eq", "name": "${#person}", "value": "xuankai chang"}]}
+xuankai	B-${#person}
+chang	I-${#person}
+在	O
+什	O
+么	O
+时	O
+候	O
+加	O
+入	O
+的	O
+
+year_of_join
+{"return_type": "year_of_join", "mainEntity": "ouyu lan", "slots": [{"op": "eq", "name": "${#person}", "value": "ouyu lan"}]}
+ouyu	B-${#person}
+lan	I-${#person}
+什	O
+么	O
+时	O
+候	O
+进	O
+来	O
+的	O
+
+identity
+{"return_type": "identity", "mainEntity": "兰鸥羽", "slots": [{"op": "eq", "name": "${#person}", "value": "兰鸥羽"}]}
+兰	B-${#person}
+鸥	I-${#person}
+羽	I-${#person}
+的	O
+性	O
+别	O
+
+identity
+{"return_type": "identity", "mainEntity": "ruisheng", "slots": [{"op": "eq", "name": "${#person}", "value": "ruisheng"}]}
+ruisheng	B-${#person}
+是	O
+谁	O
+
+email
+{"return_type": "email", "mainEntity": "常成", "slots": [{"op": "eq", "name": "${#person}", "value": "常成"}]}
+有	O
+没	O
+有	O
+常	B-${#person}
+成	I-${#person}
+的	O
+联	O
+系	O
+方	O
+式	O
+
+email
+{"return_type": "email", "mainEntity": "符天凡", "slots": [{"op": "eq", "name": "${#person}", "value": "符天凡"}]}
+求	O
+符	B-${#person}
+天	I-${#person}
+凡	I-${#person}
+的	O
+联	O
+系	O
+方	O
+式	O
+
+award
+{"return_type": "award", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+介	O
+绍	O
+一	O
+下	O
+俞	B-${#person}
+栋	I-${#person}
+的	O
+成	O
+就	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "郭运奇", "slots": [{"op": "eq", "name": "${#person}", "value": "郭运奇"}]}
+郭	B-${#person}
+运	I-${#person}
+奇	I-${#person}
+去	O
+向	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "叶子豪", "slots": [{"op": "eq", "name": "${#person}", "value": "叶子豪"}]}
+叶	B-${#person}
+子	I-${#person}
+豪	I-${#person}
+去	O
+向	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "叶子豪", "slots": [{"op": "eq", "name": "${#person}", "value": "叶子豪"}]}
+叶	B-${#person}
+子	I-${#person}
+豪	I-${#person}
+本	O
+科	O
+是	O
+哪	O
+所	O
+学	O
+校	O
+的	O
+
+academic_degree
+{"return_type": "academic_degree", "mainEntity": "tian tan", "slots": [{"op": "eq", "name": "${#person}", "value": "tian tan"}]}
+tian	B-${#person}
+tan	I-${#person}
+的	O
+目	O
+前	O
+是	O
+什	O
+么	O
+学	O
+历	O
+
+occupation
+{"return_type": "occupation", "mainEntity": "曹瑞升", "slots": [{"op": "eq", "name": "${#person}", "value": "曹瑞升"}]}
+曹	B-${#person}
+瑞	I-${#person}
+升	I-${#person}
+有	O
+无	O
+啥	O
+position	O
+
+description
+{"return_type": "description", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+俞	B-${#person}
+栋	I-${#person}
+研	O
+究	O
+方	O
+向	O
+
+description
+{"return_type": "description", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+介	O
+绍	O
+一	O
+下	O
+俞	B-${#person}
+栋	I-${#person}
+
+description
+{"return_type": "description", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}]}
+俞	B-${#person}
+凯	I-${#person}
+的	O
+科	O
+研	O
+经	O
+历	O
+
+personal_website
+{"return_type": "personal_website", "mainEntity": "老俞", "slots": [{"op": "eq", "name": "${#person}", "value": "老俞"}]}
+老	B-${#person}
+俞	I-${#person}
+的	O
+博	O
+客	O
+是	O
+啥	O
+
+image
+{"return_type": "image", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}]}
+俞	B-${#person}
+凯	I-${#person}
+的	O
+照	O
+片	O
+
+field_of_work
+{"return_type": "field_of_work", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}]}
+俞	B-${#person}
+凯	I-${#person}
+的	O
+毕	O
+业	O
+论	O
+文	O
+课	O
+题	O
+
+field_of_work
+{"return_type": "field_of_work", "mainEntity": "大多数人", "slots": [{"op": "eq", "name": "${#person}", "value": "大多数人"}]}
+大	B-${#person}
+多	I-${#person}
+数	I-${#person}
+人	I-${#person}
+都	O
+研	O
+究	O
+啥	O
+
+field_of_work
+{"return_type": "field_of_work", "mainEntity": "刘轩", "slots": [{"op": "eq", "name": "${#person}", "value": "刘轩"}]}
+刘	B-${#person}
+轩	I-${#person}
+的	O
+研	O
+究	O
+方	O
+向	O
+是	O
+什	O
+么	O
+
+publication
+{"return_type": "publication", "mainEntity": "ouyu", "slots": [{"op": "eq", "name": "${#person}", "value": "ouyu"}, {"op": "eq", "name": "publication_date", "value": "16到18年"}]}
+ouyu	B-${#person}
+在	O
+1	B-publication_date
+6	I-publication_date
+到	I-publication_date
+1	I-publication_date
+8	I-publication_date
+年	I-publication_date
+有	O
+中	O
+过	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}, {"op": "eq", "name": "publication_date", "value": "13年"}]}
+1	B-publication_date
+3	I-publication_date
+年	I-publication_date
+俞	B-${#person}
+凯	I-${#person}
+论	O
+文	O
+的	O
+list	O
+
+publication
+{"return_type": "publication", "mainEntity": "孙锴", "slots": [{"op": "eq", "name": "${#person}", "value": "孙锴"}, {"op": "eq", "name": "publication_date", "value": "2015年"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+5	I-publication_date
+年	I-publication_date
+孙	B-${#person}
+锴	I-${#person}
+中	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "tian tan", "slots": [{"op": "eq", "name": "${#person}", "value": "tian tan"}, {"op": "eq", "name": "publication_date", "value": "2006年"}]}
+在	O
+2	B-publication_date
+0	I-publication_date
+0	I-publication_date
+6	I-publication_date
+年	I-publication_date
+有	O
+没	O
+有	O
+一	O
+些	O
+tian	B-${#person}
+tan	I-${#person}
+中	O
+的	O
+的	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+icassp	B-published_in
+有	O
+几	O
+篇	O
+俞	B-${#person}
+凯	I-${#person}
+的	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "钱老师", "slots": [{"op": "eq", "name": "${#person}", "value": "钱老师"}, {"op": "eq", "name": "published_in", "value": "ijcai"}]}
+钱	B-${#person}
+老	I-${#person}
+师	I-${#person}
+在	O
+ijcai	B-published_in
+上	O
+发	O
+表	O
+过	O
+什	O
+么	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "尹茂帆", "slots": [{"op": "eq", "name": "${#person}", "value": "尹茂帆"}, {"op": "eq", "name": "publication_date", "value": "2012年"}, {"op": "eq", "name": "published_in", "value": "ecai"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+2	I-publication_date
+年	I-publication_date
+尹	B-${#person}
+茂	I-${#person}
+帆	I-${#person}
+发	O
+表	O
+在	O
+ecai	B-published_in
+上	O
+的	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "曹瑞升", "slots": [{"op": "eq", "name": "${#person}", "value": "曹瑞升"}, {"op": "eq", "name": "publication_date", "value": "2005年"}, {"op": "eq", "name": "published_in", "value": "interspeech"}]}
+在	O
+2	B-publication_date
+0	I-publication_date
+0	I-publication_date
+5	I-publication_date
+年	I-publication_date
+曹	B-${#person}
+瑞	I-${#person}
+升	I-${#person}
+都	O
+有	O
+哪	O
+些	O
+在	O
+interspeech	B-published_in
+上	O
+的	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "周瑛", "slots": [{"op": "eq", "name": "${#person}", "value": "周瑛"}, {"op": "eq", "name": "publication_date", "value": "去年"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+去	B-publication_date
+年	I-publication_date
+周	B-${#person}
+瑛	I-${#person}
+在	O
+icassp	B-published_in
+发	O
+的	O
+论	O
+文	O
+
+title
+{"return_type": "title", "mainEntity": "generative adversarial networks", "slots": [{"op": "eq", "name": "${#paper}", "value": "generative adversarial networks"}]}
+generative	B-${#paper}
+adversarial	I-${#paper}
+networks	I-${#paper}
+这	O
+篇	O
+文	O
+章	O
+的	O
+名	O
+字	O
+是	O
+什	O
+么	O
+
+title
+{"return_type": "title", "mainEntity": "generative adversarial networks", "slots": [{"op": "eq", "name": "${#paper}", "value": "generative adversarial networks"}]}
+generative	B-${#paper}
+adversarial	I-${#paper}
+networks	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+完	O
+整	O
+名	O
+称	O
+是	O
+什	O
+么	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "semi-supervised training using adversarial multi-task learning for spoken language understanding", "slots": [{"op": "eq", "name": "${#paper}", "value": "semi-supervised training using adversarial multi-task learning for spoken language understanding"}]}
+semi	B-${#paper}
+-	I-${#paper}
+supervised	I-${#paper}
+training	I-${#paper}
+using	I-${#paper}
+adversarial	I-${#paper}
+multi	I-${#paper}
+-	I-${#paper}
+task	I-${#paper}
+learning	I-${#paper}
+for	I-${#paper}
+spoken	I-${#paper}
+language	I-${#paper}
+understanding	I-${#paper}
+的	O
+创	O
+新	O
+点	O
+
+published_in
+{"return_type": "published_in", "mainEntity": "semi-supervised training using adversarial multi-task learning for spoken language understanding", "slots": [{"op": "eq", "name": "${#paper}", "value": "semi-supervised training using adversarial multi-task learning for spoken language understanding"}]}
+semi	B-${#paper}
+-	I-${#paper}
+supervised	I-${#paper}
+training	I-${#paper}
+using	I-${#paper}
+adversarial	I-${#paper}
+multi	I-${#paper}
+-	I-${#paper}
+task	I-${#paper}
+learning	I-${#paper}
+for	I-${#paper}
+spoken	I-${#paper}
+language	I-${#paper}
+understanding	I-${#paper}
+的	O
+作	O
+者	O
+
+published_in
+{"return_type": "published_in", "mainEntity": "recurrent neural network language model with structured word embeddings for speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "recurrent neural network language model with structured word embeddings for speech recognition"}]}
+recurrent	B-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+language	I-${#paper}
+model	I-${#paper}
+with	I-${#paper}
+structured	I-${#paper}
+word	I-${#paper}
+embeddings	I-${#paper}
+for	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+是	O
+哪	O
+个	O
+期	O
+刊	O
+的	O
+
+link
+{"return_type": "link", "mainEntity": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition"}]}
+论	O
+文	O
+automatic	B-${#paper}
+model	I-${#paper}
+redundancy	I-${#paper}
+reduction	I-${#paper}
+for	I-${#paper}
+fast	I-${#paper}
+back	I-${#paper}
+-	I-${#paper}
+propagation	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+networks	I-${#paper}
+in	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+的	O
+链	O
+接	O
+
+award
+{"return_type": "award", "mainEntity": "generative adversarial networks", "slots": [{"op": "eq", "name": "${#paper}", "value": "generative adversarial networks"}]}
+generative	B-${#paper}
+adversarial	I-${#paper}
+networks	I-${#paper}
+这	O
+篇	O
+文	O
+章	O
+取	O
+得	O
+了	O
+哪	O
+些	O
+重	O
+大	O
+的	O
+学	O
+术	O
+成	O
+果	O
+
+award
+{"return_type": "award", "mainEntity": "acoustic emotion recognition using deep neural network", "slots": [{"op": "eq", "name": "${#paper}", "value": "acoustic emotion recognition using deep neural network"}]}
+论	O
+文	O
+acoustic	B-${#paper}
+emotion	I-${#paper}
+recognition	I-${#paper}
+using	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+取	O
+得	O
+过	O
+什	O
+么	O
+国	O
+际	O
+性	O
+成	O
+就	O
+
+author
+{"return_type": "author", "mainEntity": "semi-supervised training using adversarial multi-task learning for spoken language understanding", "slots": [{"op": "eq", "name": "${#paper}", "value": "semi-supervised training using adversarial multi-task learning for spoken language understanding"}]}
+谁	O
+写	O
+的	O
+semi	B-${#paper}
+-	I-${#paper}
+supervised	I-${#paper}
+training	I-${#paper}
+using	I-${#paper}
+adversarial	I-${#paper}
+multi	I-${#paper}
+-	I-${#paper}
+task	I-${#paper}
+learning	I-${#paper}
+for	I-${#paper}
+spoken	I-${#paper}
+language	I-${#paper}
+understanding	I-${#paper}
+
+author
+{"return_type": "author", "mainEntity": "small-footprint convolutional neural network for spoofing detection", "slots": [{"op": "eq", "name": "${#paper}", "value": "small-footprint convolutional neural network for spoofing detection"}]}
+论	O
+文	O
+small	B-${#paper}
+-	I-${#paper}
+footprint	I-${#paper}
+convolutional	I-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+for	I-${#paper}
+spoofing	I-${#paper}
+detection	I-${#paper}
+是	O
+谁	O
+写	O
+的	O
+
+author
+{"return_type": "author", "mainEntity": "comparison of modeling target in lstm-rnn duration model", "slots": [{"op": "eq", "name": "${#paper}", "value": "comparison of modeling target in lstm-rnn duration model"}]}
+是	O
+谁	O
+写	O
+的	O
+comparison	B-${#paper}
+of	I-${#paper}
+modeling	I-${#paper}
+target	I-${#paper}
+in	I-${#paper}
+lstm	I-${#paper}
+-	I-${#paper}
+rnn	I-${#paper}
+duration	I-${#paper}
+model	I-${#paper}
+这	O
+篇	O
+文	O
+章	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+论	O
+文	O
+what	B-${#paper}
+does	I-${#paper}
+the	I-${#paper}
+speaker	I-${#paper}
+embedding	I-${#paper}
+encode	I-${#paper}
+是	O
+哪	O
+个	O
+单	O
+位	O
+发	O
+表	O
+的	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "comparison of modeling target in lstm-rnn duration model", "slots": [{"op": "eq", "name": "${#paper}", "value": "comparison of modeling target in lstm-rnn duration model"}]}
+是	O
+哪	O
+家	O
+机	O
+构	O
+的	O
+人	O
+员	O
+发	O
+表	O
+的	O
+comparison	B-${#paper}
+of	I-${#paper}
+modeling	I-${#paper}
+target	I-${#paper}
+in	I-${#paper}
+lstm	I-${#paper}
+-	I-${#paper}
+rnn	I-${#paper}
+duration	I-${#paper}
+model	I-${#paper}
+
+description
+{"return_type": "description", "mainEntity": "阿里小乐", "slots": [{"op": "eq", "name": "${#demo}", "value": "阿里小乐"}]}
+关	O
+于	O
+阿	B-${#demo}
+里	I-${#demo}
+小	I-${#demo}
+乐	I-${#demo}
+这	O
+款	O
+产	O
+品	O
+的	O
+各	O
+种	O
+阐	O
+述	O
+
+description
+{"return_type": "description", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+是	O
+啥	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "输入板"}]}
+输	B-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+作	O
+用	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "车萝卜", "slots": [{"op": "eq", "name": "${#demo}", "value": "车萝卜"}]}
+车	B-${#demo}
+萝	I-${#demo}
+卜	I-${#demo}
+这	O
+个	O
+demo	O
+的	O
+产	O
+品	O
+分	O
+类	O
+是	O
+什	O
+么	O
+
+inception
+{"return_type": "inception", "mainEntity": "mobile checkin", "slots": [{"op": "eq", "name": "${#demo}", "value": "mobile checkin"}]}
+mobile	B-${#demo}
+checkin	I-${#demo}
+这	O
+个	O
+demo	O
+是	O
+哪	O
+一	O
+年	O
+的	O
+
+inception
+{"return_type": "inception", "mainEntity": "语音纠错哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音纠错哥"}]}
+语	B-${#demo}
+音	I-${#demo}
+纠	I-${#demo}
+错	I-${#demo}
+哥	I-${#demo}
+咋	O
+用	O
+
+technology
+{"return_type": "technology", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+是	O
+啥	O
+
+technology
+{"return_type": "technology", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+主	O
+要	O
+涉	O
+及	O
+哪	O
+个	O
+研	O
+究	O
+领	O
+域	O
+的	O
+技	O
+术	O
+
+technology
+{"return_type": "technology", "mainEntity": "语音纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音纠正哥"}]}
+语	B-${#demo}
+音	I-${#demo}
+纠	I-${#demo}
+正	I-${#demo}
+哥	I-${#demo}
+作	O
+用	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语义理解"}]}
+语	B-technology
+义	I-technology
+理	I-technology
+解	I-technology
+有	O
+什	O
+么	O
+用	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语义理解"}]}
+有	O
+啥	O
+工	O
+作	O
+跟	O
+语	B-technology
+义	I-technology
+理	I-technology
+解	I-technology
+有	O
+关	O
+的	O
+
+description
+{"return_type": "description", "mainEntity": "语义方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "语义方面"}]}
+详	O
+细	O
+描	O
+述	O
+一	O
+下	O
+语	B-${#concept}
+义	I-${#concept}
+方	I-${#concept}
+面	I-${#concept}
+的	O
+知	O
+识	O
+
+link
+{"return_type": "link", "mainEntity": "丰富音频", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频"}]}
+有	O
+没	O
+有	O
+介	O
+绍	O
+丰	B-${#concept}
+富	I-${#concept}
+音	I-${#concept}
+频	I-${#concept}
+的	O
+相	O
+关	O
+链	O
+接	O
+
+link
+{"return_type": "link", "mainEntity": "科学上网方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "科学上网方面"}]}
+科	B-${#concept}
+学	I-${#concept}
+上	I-${#concept}
+网	I-${#concept}
+方	I-${#concept}
+面	I-${#concept}
+名	O
+词	O
+相	O
+关	O
+网	O
+页	O
+地	O
+址	O
+在	O
+哪	O
+里	O
+
+publication
+{"return_type": "publication", "mainEntity": "丰富音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频处理"}]}
+有	O
+关	O
+丰	B-${#concept}
+富	I-${#concept}
+音	I-${#concept}
+频	I-${#concept}
+处	I-${#concept}
+理	I-${#concept}
+的	O
+文	O
+章	O
+有	O
+哪	O
+些	O
+
+publication
+{"return_type": "publication", "mainEntity": "语音合成技术", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音合成技术"}]}
+是	O
+哪	O
+几	O
+篇	O
+应	O
+用	O
+语	B-${#concept}
+音	I-${#concept}
+合	I-${#concept}
+成	I-${#concept}
+技	I-${#concept}
+术	I-${#concept}
+的	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "语音识别方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音识别方面"}]}
+有	O
+多	O
+少	O
+用	O
+到	O
+语	B-${#concept}
+音	I-${#concept}
+识	I-${#concept}
+别	I-${#concept}
+方	I-${#concept}
+面	I-${#concept}
+的	O
+期	O
+刊	O
+
+publisher
+{"return_type": "publisher", "mainEntity": "解析深度学习", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习"}]}
+解	B-${#book}
+析	I-${#book}
+深	I-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+谁	O
+翻	O
+译	O
+的	O
+
+link
+{"return_type": "link", "mainEntity": "强化学习", "slots": [{"op": "eq", "name": "${#book}", "value": "强化学习"}]}
+有	O
+没	O
+有	O
+强	B-${#book}
+化	I-${#book}
+学	I-${#book}
+习	I-${#book}
+的	O
+网	O
+络	O
+版	O
+本	O
+链	O
+接	O
+
+link
+{"return_type": "link", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+我	O
+在	O
+哪	O
+可	O
+以	O
+看	O
+leaning	B-${#book}
+deep	I-${#book}
+architectures	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+
+link
+{"return_type": "link", "mainEntity": "speech recognition", "slots": [{"op": "eq", "name": "${#book}", "value": "speech recognition"}]}
+我	O
+在	O
+哪	O
+个	O
+网	O
+站	O
+可	O
+以	O
+下	O
+载	O
+到	O
+speech	B-${#book}
+recognition	I-${#book}
+这	O
+本	O
+书	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "强化学习", "slots": [{"op": "eq", "name": "${#book}", "value": "强化学习"}]}
+强	B-${#book}
+化	I-${#book}
+学	I-${#book}
+习	I-${#book}
+这	O
+本	O
+书	O
+的	O
+准	O
+确	O
+出	O
+售	O
+的	O
+年	O
+份	O
+是	O
+什	O
+么	O
+
+contribution
+{"return_type": "contribution", "mainEntity": "speech recognition", "slots": [{"op": "eq", "name": "${#book}", "value": "speech recognition"}]}
+speech	B-${#book}
+recognition	I-${#book}
+这	O
+本	O
+书	O
+是	O
+原	O
+创	O
+的	O
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "原创"}]}
+有	O
+哪	O
+些	O
+原	B-contribution
+创	I-contribution
+作	O
+品	O
+
+translator
+{"return_type": "translator", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+leaning	B-${#book}
+deep	I-${#book}
+architectures	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+是	O
+谁	O
+翻	O
+译	O
+的	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+个	O
+专	O
+利	O
+的	O
+发	O
+明	O
+id	O
+是	O
+多	O
+少	O
+
+description
+{"return_type": "description", "mainEntity": "数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串的纠正方法及装置"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+是	O
+啥	O
+
+author
+{"return_type": "author", "mainEntity": "强化学习那本书", "slots": [{"op": "eq", "name": "${#patent}", "value": "强化学习那本书"}]}
+强	B-${#patent}
+化	I-${#patent}
+学	I-${#patent}
+习	I-${#patent}
+那	I-${#patent}
+本	I-${#patent}
+书	I-${#patent}
+是	O
+谁	O
+翻	O
+译	O
+的	O
+
+technology
+{"return_type": "technology", "mainEntity": "数字串纠正装置专利", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正装置专利"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+专	I-${#patent}
+利	I-${#patent}
+主	O
+要	O
+使	O
+用	O
+了	O
+哪	O
+些	O
+技	O
+术	O
+
+${#patent}
+{"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语音技术"}]}
+跟	O
+语	B-technology
+音	I-technology
+技	I-technology
+术	I-technology
+相	O
+关	O
+发	O
+明	O
+专	O
+利	O
+都	O
+是	O
+什	O
+么	O
+
+${#patent}
+{"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语音识别技术"}]}
+和	O
+语	B-technology
+音	I-technology
+识	I-technology
+别	I-technology
+技	I-technology
+术	I-technology
+相	O
+关	O
+专	O
+利	O
+有	O
+哪	O
+几	O
+个	O
+
+description
+{"return_type": "description", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+讲	O
+讲	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+成	O
+立	O
+经	O
+过	O
+
+ambition
+{"return_type": "ambition", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+些	O
+什	O
+么	O
+愿	O
+望	O
+
+ambition
+{"return_type": "ambition", "mainEntity": "你们那里", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那里"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+里	I-${#institute}
+大	O
+家	O
+有	O
+什	O
+么	O
+愿	O
+望	O
+
+ambition
+{"return_type": "ambition", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+目	O
+标	O
+是	O
+啥	O
+
+inception
+{"return_type": "inception", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+成	O
+立	O
+日	O
+期	O
+
+inception
+{"return_type": "inception", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}]}
+speechlab	B-${#institute}
+在	O
+哪	O
+年	O
+成	O
+立	O
+
+location
+{"return_type": "location", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+哪	O
+个	O
+地	O
+方	O
+
+location
+{"return_type": "location", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+哪	O
+里	O
+
+country
+{"return_type": "country", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+属	O
+于	O
+哪	O
+个	O
+国	O
+家	O
+
+country
+{"return_type": "country", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+位	O
+于	O
+哪	O
+个	O
+国	O
+家	O
+
+country
+{"return_type": "country", "mainEntity": "思必驰", "slots": [{"op": "eq", "name": "${#institute}", "value": "思必驰"}]}
+思	B-${#institute}
+必	I-${#institute}
+驰	I-${#institute}
+在	O
+哪	O
+里	O
+成	O
+立	O
+
+award
+{"return_type": "award", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+块	I-${#institute}
+被	O
+发	O
+放	O
+的	O
+资	O
+金	O
+都	O
+有	O
+多	O
+少	O
+
+culture
+{"return_type": "culture", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}]}
+语	B-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+文	O
+化	O
+传	O
+统	O
+有	O
+哪	O
+些	O
+
+culture
+{"return_type": "culture", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+儿	I-${#institute}
+有	O
+什	O
+么	O
+文	O
+化	O
+
+official_website
+{"return_type": "official_website", "mainEntity": "你们那里", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那里"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+里	I-${#institute}
+有	O
+没	O
+有	O
+自	O
+己	O
+的	O
+网	O
+页	O
+链	O
+接	O
+
+official_website
+{"return_type": "official_website", "mainEntity": "你们那里", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那里"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+里	I-${#institute}
+是	O
+不	O
+是	O
+有	O
+什	O
+么	O
+翻	O
+墙	O
+软	O
+件	O
+
+official_website
+{"return_type": "official_website", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+官	O
+网	O
+是	O
+什	O
+么	O
+
+official_website
+{"return_type": "official_website", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+官	O
+网	O
+是	O
+啥	O
+
+employees
+{"return_type": "employees", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+总	O
+共	O
+有	O
+多	O
+少	O
+人	O
+
+image
+{"return_type": "image", "mainEntity": "你们那方面", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那方面"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+方	I-${#institute}
+面	I-${#institute}
+的	O
+内	O
+部	O
+照	O
+片	O
+
+image
+{"return_type": "image", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+照	O
+片	O
+
+image
+{"return_type": "image", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+内	O
+部	O
+照	O
+片	O
+
+image
+{"return_type": "image", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+儿	I-${#institute}
+的	O
+内	O
+部	O
+照	O
+片	O
+有	O
+木	O
+有	O
+
+image
+{"return_type": "image", "mainEntity": "操作系统实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "操作系统实验室"}]}
+操	B-${#institute}
+作	I-${#institute}
+系	I-${#institute}
+统	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+照	O
+片	O
+有	O
+木	O
+有	O
+
+direction
+{"return_type": "direction", "mainEntity": "你们人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们人机交互实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+人	I-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+主	O
+要	O
+有	O
+哪	O
+些	O
+科	O
+研	O
+方	O
+向	O
+
+direction
+{"return_type": "direction", "mainEntity": "你们人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们人机交互实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+人	I-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+科	O
+研	O
+兴	O
+趣	O
+
+direction
+{"return_type": "direction", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+人	I-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+是	O
+做	O
+什	O
+么	O
+的	O
+
+direction
+{"return_type": "direction", "mainEntity": "网络系统实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "网络系统实验室"}]}
+网	B-${#institute}
+络	I-${#institute}
+系	I-${#institute}
+统	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+是	O
+搞	O
+什	O
+么	O
+领	O
+域	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "语义理解"}]}
+哪	O
+些	O
+成	O
+员	O
+在	O
+语	B-direction
+义	I-direction
+理	I-direction
+解	I-direction
+方	O
+向	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "丰富音频分析"}]}
+有	O
+哪	O
+些	O
+实	O
+验	O
+室	O
+是	O
+研	O
+究	O
+丰	B-direction
+富	I-direction
+音	I-direction
+频	I-direction
+分	I-direction
+析	I-direction
+的	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "语音合成"}]}
+国	O
+内	O
+哪	O
+些	O
+实	O
+验	O
+室	O
+研	O
+究	O
+语	B-direction
+音	I-direction
+合	I-direction
+成	I-direction
+这	O
+个	O
+领	O
+域	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "对话系统方向"}, {"op": "eq", "name": "country", "value": "中国"}]}
+中	B-country
+国	I-country
+有	O
+哪	O
+些	O
+实	O
+验	O
+室	O
+是	O
+在	O
+做	O
+对	B-direction
+话	I-direction
+系	I-direction
+统	I-direction
+方	I-direction
+向	I-direction
+的	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "说话人识别"}, {"op": "eq", "name": "country", "value": "国内"}]}
+国	B-country
+内	I-country
+有	O
+哪	O
+些	O
+lab	O
+在	O
+研	O
+究	O
+说	B-direction
+话	I-direction
+人	I-direction
+识	I-direction
+别	I-direction
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "说话人识别"}, {"op": "eq", "name": "country", "value": "国内"}]}
+国	B-country
+内	I-country
+做	O
+说	B-direction
+话	I-direction
+人	I-direction
+识	I-direction
+别	I-direction
+的	O
+实	O
+验	O
+室	O
+有	O
+哪	O
+些	O
+
+${#institute}
+{"return_type": "${#institute}", "mainEntity": "", "slots": [{"op": "eq", "name": "direction", "value": "说话人识别"}, {"op": "eq", "name": "country", "value": "国内"}]}
+国	B-country
+内	I-country
+有	O
+哪	O
+些	O
+说	B-direction
+话	I-direction
+人	I-direction
+识	I-direction
+别	I-direction
+领	O
+域	O
+的	O
+研	O
+究	O
+所	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+都	O
+有	O
+哪	O
+些	O
+成	O
+员	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+都	O
+是	O
+什	O
+么	O
+人	O
+加	O
+入	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+人	O
+
+member
+{"return_type": "member", "mainEntity": "lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "lab"}]}
+谁	O
+加	O
+入	O
+了	O
+lab	B-${#institute}
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "identity", "value": "学生"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+学	B-identity
+生	I-identity
+都	O
+有	O
+谁	O
+
+member
+{"return_type": "member", "mainEntity": "你们智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音技术实验室"}, {"op": "eq", "name": "identity", "value": "博士生"}]}
+你	B-${#institute}
+们	I-${#institute}
+智	I-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+博	B-identity
+士	I-identity
+生	I-identity
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音技术实验室"}, {"op": "eq", "name": "identity", "value": "博士生"}]}
+你	B-${#institute}
+们	I-${#institute}
+智	I-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+博	B-identity
+士	I-identity
+生	I-identity
+
+member
+{"return_type": "member", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "identity", "value": "博士生"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+博	B-identity
+士	I-identity
+生	I-identity
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "year_of_join", "value": "2010年"}]}
+哪	O
+些	O
+人	O
+是	O
+在	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+0	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+
+member
+{"return_type": "member", "mainEntity": "你们智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "两0一零年"}]}
+你	B-${#institute}
+们	I-${#institute}
+智	I-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+两	B-year_of_join
+0	I-year_of_join
+一	I-year_of_join
+零	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+了	O
+哪	O
+些	O
+成	O
+员	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "year_of_join", "value": "2010年"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+成	O
+员	O
+在	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+0	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "year_of_join", "value": "2010年"}]}
+哪	O
+些	O
+人	O
+是	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+0	I-year_of_join
+年	I-year_of_join
+进	O
+的	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "year_of_join", "value": "2015年"}]}
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+5	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+人	O
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "identity", "value": "教授"}, {"op": "eq", "name": "year_of_join", "value": "去年"}]}
+去	B-year_of_join
+年	I-year_of_join
+加	O
+入	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+教	B-identity
+授	I-identity
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "identity", "value": "正教授"}, {"op": "eq", "name": "year_of_join", "value": "2016年"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+哪	O
+个	O
+正	B-identity
+教	I-identity
+授	I-identity
+是	O
+在	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+6	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "identity", "value": "正职教授"}, {"op": "eq", "name": "year_of_join", "value": "2016年"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+6	I-year_of_join
+年	I-year_of_join
+以	O
+后	O
+加	O
+入	O
+了	O
+哪	O
+些	O
+正	B-identity
+职	I-identity
+教	I-identity
+授	I-identity
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "identity", "value": "正教授"}, {"op": "eq", "name": "year_of_join", "value": "2012年"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+正	B-identity
+教	I-identity
+授	I-identity
+有	O
+哪	O
+些	O
+是	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+2	I-year_of_join
+年	I-year_of_join
+才	O
+加	O
+入	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}, {"op": "eq", "name": "identity", "value": "同学"}, {"op": "eq", "name": "year_of_join", "value": "2014年"}]}
+哪	O
+些	O
+同	B-identity
+学	I-identity
+是	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+4	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+speechlab	B-${#institute}
+的	O
+
+member
+{"return_type": "member", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "identity", "value": "研究员"}, {"op": "eq", "name": "year_of_join", "value": "二零一8年"}]}
+你	B-${#institute}
+们	I-${#institute}
+lab	I-${#institute}
+是	O
+些	O
+啥	O
+研	B-identity
+究	I-identity
+员	I-identity
+是	O
+于	O
+二	B-year_of_join
+零	I-year_of_join
+一	I-year_of_join
+8	I-year_of_join
+年	I-year_of_join
+才	O
+加	O
+入	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "语音实验室"}, {"op": "eq", "name": "year_of_join", "value": "两零12年"}, {"op": "eq", "name": "identity", "value": "本科生"}]}
+哪	O
+些	O
+是	O
+语	B-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+两	B-year_of_join
+零	I-year_of_join
+1	I-year_of_join
+2	I-year_of_join
+年	I-year_of_join
+才	O
+加	O
+入	O
+的	O
+本	B-identity
+科	I-identity
+生	I-identity
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "year_of_join", "value": "2012年"}, {"op": "eq", "name": "identity", "value": "本科生"}]}
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+2	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+本	B-identity
+科	I-identity
+生	I-identity
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "year_of_join", "value": "2016年"}, {"op": "eq", "name": "identity", "value": "研究生"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+研	B-identity
+究	I-identity
+生	I-identity
+是	O
+2	B-year_of_join
+0	I-year_of_join
+1	I-year_of_join
+6	I-year_of_join
+年	I-year_of_join
+加	O
+入	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "field_of_work", "value": "语音合成"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+语	B-field_of_work
+音	I-field_of_work
+合	I-field_of_work
+成	I-field_of_work
+相	O
+关	O
+领	O
+域	O
+的	O
+研	O
+究	O
+员	O
+
+member
+{"return_type": "member", "mainEntity": "你们laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们laboratory"}, {"op": "eq", "name": "field_of_work", "value": "语言模型"}]}
+你	B-${#institute}
+们	I-${#institute}
+laboratory	I-${#institute}
+里	O
+面	O
+哪	O
+些	O
+人	O
+在	O
+研	O
+究	O
+语	B-field_of_work
+言	I-field_of_work
+模	I-field_of_work
+型	I-field_of_work
+相	O
+关	O
+的	O
+主	O
+题	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "identity", "value": "同学"}, {"op": "eq", "name": "field_of_work", "value": "对话系统"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+中	O
+有	O
+哪	O
+些	O
+同	B-identity
+学	I-identity
+在	O
+进	O
+行	O
+对	B-field_of_work
+话	I-field_of_work
+系	I-field_of_work
+统	I-field_of_work
+有	O
+关	O
+的	O
+研	O
+究	O
+
+member
+{"return_type": "member", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}, {"op": "eq", "name": "identity", "value": "博士生"}, {"op": "eq", "name": "field_of_work", "value": "对话"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+儿	I-${#institute}
+哪	O
+些	O
+博	B-identity
+士	I-identity
+生	I-identity
+是	O
+搞	O
+对	B-field_of_work
+话	I-field_of_work
+的	O
+
+member
+{"return_type": "member", "mainEntity": "人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "人机交互实验室"}, {"op": "eq", "name": "identity", "value": "博士生"}, {"op": "eq", "name": "field_of_work", "value": "对话系统"}]}
+人	B-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+哪	O
+几	O
+个	O
+博	B-identity
+士	I-identity
+生	I-identity
+在	O
+做	O
+对	B-field_of_work
+话	I-field_of_work
+系	I-field_of_work
+统	I-field_of_work
+相	O
+关	O
+的	O
+研	O
+究	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "educated_at", "value": "上海交通大学"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+上	B-educated_at
+海	I-educated_at
+交	I-educated_at
+通	I-educated_at
+大	I-educated_at
+学	I-educated_at
+毕	O
+业	O
+的	O
+研	O
+究	O
+人	O
+员	O
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "educated_at", "value": "南京大学"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+中	O
+谁	O
+是	O
+南	B-educated_at
+京	I-educated_at
+大	I-educated_at
+学	I-educated_at
+毕	O
+业	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "你们语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们语音实验室"}, {"op": "eq", "name": "educated_at", "value": "上海交通大学"}]}
+你	B-${#institute}
+们	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+哪	O
+些	O
+人	O
+是	O
+在	O
+上	B-educated_at
+海	I-educated_at
+交	I-educated_at
+通	I-educated_at
+大	I-educated_at
+学	I-educated_at
+读	O
+书	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "educated_at", "value": "上海交通大学"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+中	O
+就	O
+读	O
+于	O
+上	B-educated_at
+海	I-educated_at
+交	I-educated_at
+通	I-educated_at
+大	I-educated_at
+学	I-educated_at
+的	O
+成	O
+员	O
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "educated_at", "value": "上海交通大学"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+在	O
+上	B-educated_at
+海	I-educated_at
+交	I-educated_at
+通	I-educated_at
+大	I-educated_at
+学	I-educated_at
+读	O
+书	O
+的	O
+成	O
+员	O
+
+member
+{"return_type": "member", "mainEntity": "清华大学", "slots": [{"op": "eq", "name": "${#institute}", "value": "清华大学"}, {"op": "eq", "name": "educated_at", "value": "你们操作系统实验室"}]}
+你	B-educated_at
+们	I-educated_at
+操	I-educated_at
+作	I-educated_at
+系	I-educated_at
+统	I-educated_at
+实	I-educated_at
+验	I-educated_at
+室	I-educated_at
+里	O
+面	O
+就	O
+读	O
+于	O
+清	B-${#institute}
+华	I-${#institute}
+大	I-${#institute}
+学	I-${#institute}
+成	O
+员	O
+是	O
+哪	O
+个	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "gender", "value": "男生"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+男	B-gender
+生	I-gender
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们那", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那"}, {"op": "eq", "name": "gender", "value": "女的"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+女	B-gender
+的	I-gender
+是	O
+做	O
+什	O
+么	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "你们那地方", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那地方"}, {"op": "eq", "name": "gender", "value": "女的"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+地	I-${#institute}
+方	I-${#institute}
+里	O
+女	B-gender
+的	I-gender
+都	O
+是	O
+些	O
+什	O
+么	O
+人	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "country_of_citizen", "value": "德国"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+中	O
+有	O
+谁	O
+来	O
+自	O
+德	B-country_of_citizen
+国	I-country_of_citizen
+
+member
+{"return_type": "member", "mainEntity": "智能实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能实验室"}, {"op": "eq", "name": "country_of_citizen", "value": "英国"}]}
+智	B-${#institute}
+能	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+英	B-country_of_citizen
+国	I-country_of_citizen
+人	O
+是	O
+谁	O
+
+member
+{"return_type": "member", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "country_of_citizen", "value": "国内"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+面	O
+多	O
+少	O
+在	O
+国	B-country_of_citizen
+内	I-country_of_citizen
+搞	O
+科	O
+研	O
+
+member
+{"return_type": "member", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "country_of_citizen", "value": "国外"}]}
+你	B-${#institute}
+们	I-${#institute}
+有	O
+多	O
+少	O
+国	B-country_of_citizen
+外	I-country_of_citizen
+做	O
+科	O
+研	O
+的	O
+
+member
+{"return_type": "member", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "place_of_birth", "value": "上海"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+的	O
+上	B-place_of_birth
+海	I-place_of_birth
+人	O
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}, {"op": "eq", "name": "place_of_birth", "value": "江苏"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+儿	I-${#institute}
+的	O
+江	B-place_of_birth
+苏	I-place_of_birth
+人	O
+有	O
+哪	O
+些	O
+
+member
+{"return_type": "member", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "place_of_birth", "value": "安徽"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+有	O
+哪	O
+些	O
+人	O
+来	O
+自	O
+安	B-place_of_birth
+徽	I-place_of_birth
+
+papers
+{"return_type": "papers", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+哪	O
+些	O
+是	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+发	O
+表	O
+过	O
+的	O
+文	O
+章	O
+
+papers
+{"return_type": "papers", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}]}
+speechlab	B-${#institute}
+发	O
+表	O
+过	O
+什	O
+么	O
+文	O
+章	O
+
+papers
+{"return_type": "papers", "mainEntity": "科创中心", "slots": [{"op": "eq", "name": "${#institute}", "value": "科创中心"}]}
+科	B-${#institute}
+创	I-${#institute}
+中	I-${#institute}
+心	I-${#institute}
+发	O
+表	O
+过	O
+的	O
+文	O
+章	O
+都	O
+是	O
+哪	O
+一	O
+些	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+发	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+什	O
+么	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "publication_date", "value": "2014年"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+4	I-publication_date
+年	I-publication_date
+发	O
+表	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "publication_date", "value": "2014年"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+于	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+4	I-publication_date
+年	I-publication_date
+发	O
+表	O
+了	O
+哪	O
+些	O
+文	O
+献	O
+
+papers
+{"return_type": "papers", "mainEntity": "nrl", "slots": [{"op": "eq", "name": "${#institute}", "value": "nrl"}, {"op": "eq", "name": "publication_date", "value": "二零一4"}]}
+nrl	B-${#institute}
+于	O
+二	B-publication_date
+零	I-publication_date
+一	I-publication_date
+4	I-publication_date
+有	O
+哪	O
+些	O
+发	O
+表	O
+的	O
+文	O
+献	O
+
+papers
+{"return_type": "papers", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}, {"op": "eq", "name": "publication_date", "value": "20一1"}]}
+智	B-${#institute}
+能	I-${#institute}
+人	I-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-publication_date
+0	I-publication_date
+一	I-publication_date
+1	I-publication_date
+发	O
+表	O
+过	O
+哪	O
+些	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "publication_date", "value": "2011年"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+于	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+1	I-publication_date
+年	I-publication_date
+发	O
+表	O
+的	O
+文	O
+献	O
+有	O
+哪	O
+些	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能人机交互实验室"}, {"op": "eq", "name": "publication_date", "value": "20一1"}]}
+你	B-${#institute}
+们	I-${#institute}
+智	I-${#institute}
+能	I-${#institute}
+人	I-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-publication_date
+0	I-publication_date
+一	I-publication_date
+1	I-publication_date
+做	O
+过	O
+的	O
+项	O
+目	O
+都	O
+有	O
+哪	O
+些	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们智能语音实验室"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+在	O
+icassp	B-published_in
+上	O
+你	B-${#institute}
+们	I-${#institute}
+智	I-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+发	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+icassp	B-published_in
+期	O
+刊	O
+中	O
+发	O
+表	O
+了	O
+哪	O
+些	O
+文	O
+章	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "published_in", "value": "acl"}]}
+acl	B-published_in
+会	O
+议	O
+上	O
+你	B-${#institute}
+们	I-${#institute}
+发	O
+的	O
+文	O
+章	O
+有	O
+哪	O
+些	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "publication_date", "value": "2018年"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+8	I-publication_date
+年	I-publication_date
+icassp	B-published_in
+会	O
+议	O
+上	O
+你	B-${#institute}
+们	I-${#institute}
+发	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "publication_date", "value": "2016年"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+你	B-${#institute}
+们	I-${#institute}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+6	I-publication_date
+年	I-publication_date
+的	O
+icassp	B-published_in
+上	O
+发	O
+表	O
+过	O
+哪	O
+些	O
+论	O
+文	O
+
+papers
+{"return_type": "papers", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}, {"op": "eq", "name": "publication_date", "value": "2018年"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+speechlab	B-${#institute}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+8	I-publication_date
+年	I-publication_date
+在	O
+icassp	B-published_in
+发	O
+表	O
+过	O
+什	O
+么	O
+文	O
+章	O
+
+books
+{"return_type": "books", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}]}
+那	O
+几	O
+本	O
+是	O
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+代	O
+表	O
+性	O
+书	O
+籍	O
+
+books
+{"return_type": "books", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}]}
+你	B-${#institute}
+们	I-${#institute}
+的	O
+代	O
+表	O
+书	O
+籍	O
+有	O
+哪	O
+些	O
+
+books
+{"return_type": "books", "mainEntity": "laboratory", "slots": [{"op": "eq", "name": "${#institute}", "value": "laboratory"}, {"op": "eq", "name": "publication_date", "value": "二005年"}]}
+在	O
+二	B-publication_date
+0	I-publication_date
+0	I-publication_date
+5	I-publication_date
+年	I-publication_date
+laboratory	B-${#institute}
+有	O
+出	O
+版	O
+什	O
+么	O
+经	O
+典	O
+的	O
+书	O
+籍	O
+
+books
+{"return_type": "books", "mainEntity": "实验室人员", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室人员"}, {"op": "eq", "name": "publication_date", "value": "2017年"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+7	I-publication_date
+年	I-publication_date
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+人	I-${#institute}
+员	I-${#institute}
+都	O
+使	O
+用	O
+了	O
+哪	O
+些	O
+图	O
+书	O
+
+books
+{"return_type": "books", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "publication_date", "value": "2017年"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+7	I-publication_date
+年	I-publication_date
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+书	O
+
+books
+{"return_type": "books", "mainEntity": "你们那", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那"}, {"op": "eq", "name": "contribution", "value": "最具代表性的"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+最	B-contribution
+具	I-contribution
+代	I-contribution
+表	I-contribution
+性	I-contribution
+的	I-contribution
+成	O
+果	O
+有	O
+哪	O
+些	O
+
+books
+{"return_type": "books", "mainEntity": "lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "lab"}, {"op": "eq", "name": "contribution", "value": "原创"}]}
+lab	B-${#institute}
+有	O
+什	O
+么	O
+原	B-contribution
+创	I-contribution
+作	O
+品	O
+
+books
+{"return_type": "books", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "publication_date", "value": "2016年"}, {"op": "eq", "name": "contribution", "value": "翻译"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+6	I-publication_date
+年	I-publication_date
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+翻	B-contribution
+译	I-contribution
+的	O
+书	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+有	O
+没	O
+有	O
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们那儿", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那儿"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+儿	I-${#institute}
+有	O
+什	O
+么	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "inception", "value": "2010年"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+于	O
+2	B-inception
+0	I-inception
+1	I-inception
+0	I-inception
+年	I-inception
+公	O
+开	O
+的	O
+demo	O
+有	O
+些	O
+什	O
+么	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "inception", "value": "去年"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+去	B-inception
+年	I-inception
+发	O
+布	O
+的	O
+产	O
+品	O
+有	O
+些	O
+啥	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "二00零年"}]}
+哪	O
+些	O
+产	O
+品	O
+是	O
+你	B-${#institute}
+们	I-${#institute}
+lab	I-${#institute}
+在	O
+二	B-inception
+0	I-inception
+0	I-inception
+零	I-inception
+年	I-inception
+完	O
+成	O
+的	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "inception", "value": "2014年"}]}
+2	B-inception
+0	I-inception
+1	I-inception
+4	I-inception
+年	I-inception
+你	B-${#institute}
+们	I-${#institute}
+发	O
+布	O
+的	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "思必驰", "slots": [{"op": "eq", "name": "${#institute}", "value": "思必驰"}, {"op": "eq", "name": "inception", "value": "2013年"}]}
+思	B-${#institute}
+必	I-${#institute}
+驰	I-${#institute}
+2	B-inception
+0	I-inception
+1	I-inception
+3	I-inception
+年	I-inception
+完	O
+成	O
+了	O
+啥	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们中心", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们中心"}, {"op": "eq", "name": "inception", "value": "二00八年"}]}
+你	B-${#institute}
+们	I-${#institute}
+中	I-${#institute}
+心	I-${#institute}
+二	B-inception
+0	I-inception
+0	I-inception
+八	I-inception
+年	I-inception
+完	O
+成	O
+实	O
+验	O
+都	O
+是	O
+什	O
+么	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "technology", "value": "语音合成"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+和	O
+语	B-technology
+音	I-technology
+合	I-technology
+成	I-technology
+相	O
+关	O
+的	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们那边", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那边"}, {"op": "eq", "name": "technology", "value": "丰富音频处理"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+边	I-${#institute}
+有	O
+什	O
+么	O
+与	O
+丰	B-technology
+富	I-technology
+音	I-technology
+频	I-technology
+处	I-technology
+理	I-technology
+相	O
+关	O
+的	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+你	B-${#institute}
+们	I-${#institute}
+lab	I-${#institute}
+都	O
+有	O
+哪	O
+些	O
+demo	O
+是	O
+关	O
+于	O
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+的	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+你	B-${#institute}
+们	I-${#institute}
+有	O
+关	O
+于	O
+对	B-production_type
+话	I-production_type
+平	I-production_type
+台	I-production_type
+类	O
+的	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+对	B-production_type
+话	I-production_type
+平	I-production_type
+台	I-production_type
+类	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "贵公司", "slots": [{"op": "eq", "name": "${#institute}", "value": "贵公司"}, {"op": "eq", "name": "production_type", "value": "语音合成"}]}
+贵	B-${#institute}
+公	I-${#institute}
+司	I-${#institute}
+有	O
+什	O
+么	O
+语	B-production_type
+音	I-production_type
+合	I-production_type
+成	I-production_type
+的	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能人机交互实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能人机交互实验室"}, {"op": "eq", "name": "production_type", "value": "家居"}]}
+智	B-${#institute}
+能	I-${#institute}
+人	I-${#institute}
+机	I-${#institute}
+交	I-${#institute}
+互	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+没	O
+有	O
+应	O
+用	O
+在	O
+家	B-production_type
+居	I-production_type
+方	O
+面	O
+的	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "production_type", "value": "智能家居"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+关	O
+于	O
+智	B-production_type
+能	I-production_type
+家	I-production_type
+居	I-production_type
+的	O
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们lab", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们lab"}, {"op": "eq", "name": "inception", "value": "两零零八年"}, {"op": "eq", "name": "technology", "value": "对话动作"}]}
+你	B-${#institute}
+们	I-${#institute}
+lab	I-${#institute}
+在	O
+两	B-inception
+零	I-inception
+零	I-inception
+八	I-inception
+年	I-inception
+运	O
+用	O
+了	O
+对	B-technology
+话	I-technology
+动	I-technology
+作	I-technology
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "inception", "value": "2008年"}, {"op": "eq", "name": "technology", "value": "语义"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+2	B-inception
+0	I-inception
+0	I-inception
+8	I-inception
+年	I-inception
+应	O
+用	O
+了	O
+语	B-technology
+义	I-technology
+技	O
+术	O
+的	O
+产	O
+品	O
+都	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "inception", "value": "2015年"}, {"op": "eq", "name": "technology", "value": "语言模型"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-inception
+0	I-inception
+1	I-inception
+5	I-inception
+年	I-inception
+研	O
+发	O
+的	O
+语	B-technology
+言	I-technology
+模	I-technology
+型	I-technology
+相	O
+关	O
+产	O
+品	O
+有	O
+些	O
+什	O
+么	O
+
+demos
+{"return_type": "demos", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}, {"op": "eq", "name": "inception", "value": "2008年"}, {"op": "eq", "name": "technology", "value": "丰富音频处理"}]}
+在	O
+2	B-inception
+0	I-inception
+0	I-inception
+8	I-inception
+年	I-inception
+speechlab	B-${#institute}
+与	O
+丰	B-technology
+富	I-technology
+音	I-technology
+频	I-technology
+处	I-technology
+理	I-technology
+有	O
+关	O
+的	O
+产	O
+品	O
+有	O
+什	O
+么	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "inception", "value": "2013"}, {"op": "eq", "name": "production_type", "value": "应用软件"}]}
+在	O
+2	B-inception
+0	I-inception
+1	I-inception
+3	I-inception
+年	O
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+完	O
+成	O
+的	O
+应	B-production_type
+用	I-production_type
+软	I-production_type
+件	I-production_type
+产	O
+品	O
+类	O
+型	O
+demo	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "inception", "value": "2015年"}, {"op": "eq", "name": "production_type", "value": "app"}]}
+你	B-${#institute}
+们	I-${#institute}
+在	O
+2	B-inception
+0	I-inception
+1	I-inception
+5	I-inception
+年	I-inception
+有	O
+哪	O
+些	O
+app	B-production_type
+产	O
+品	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "inception", "value": "2017年"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+2	B-inception
+0	I-inception
+1	I-inception
+7	I-inception
+年	I-inception
+公	O
+开	O
+的	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+产	O
+品	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "inception", "value": "2017年"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+在	O
+2	B-inception
+0	I-inception
+1	I-inception
+7	I-inception
+年	I-inception
+公	O
+开	O
+的	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+产	O
+品	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "inception", "value": "2017年"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+2	B-inception
+0	I-inception
+1	I-inception
+7	I-inception
+年	I-inception
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+发	O
+布	O
+的	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "technology", "value": "语音合成"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+跟	O
+语	B-technology
+音	I-technology
+合	I-technology
+成	I-technology
+相	O
+关	O
+的	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+类	O
+demo	O
+都	O
+有	O
+哪	O
+些	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "technology", "value": "tts"}, {"op": "eq", "name": "production_type", "value": "机器人"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+是	O
+否	O
+有	O
+跟	O
+tts	B-technology
+相	O
+关	O
+的	O
+机	B-production_type
+器	I-production_type
+人	I-production_type
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}, {"op": "eq", "name": "inception", "value": "2012年"}, {"op": "eq", "name": "technology", "value": "解码器"}, {"op": "eq", "name": "production_type", "value": "智能机器人"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+于	O
+2	B-inception
+0	I-inception
+1	I-inception
+2	I-inception
+年	I-inception
+研	O
+发	O
+了	O
+哪	O
+些	O
+与	O
+解	B-technology
+码	I-technology
+器	I-technology
+有	O
+关	O
+的	O
+智	B-production_type
+能	I-production_type
+机	I-production_type
+器	I-production_type
+人	I-production_type
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "实验室"}, {"op": "eq", "name": "inception", "value": "2012年"}, {"op": "eq", "name": "technology", "value": "解码器"}, {"op": "eq", "name": "production_type", "value": "智能机器人"}]}
+实	B-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+2	B-inception
+0	I-inception
+1	I-inception
+2	I-inception
+年	I-inception
+解	B-technology
+码	I-technology
+器	I-technology
+相	O
+关	O
+的	O
+智	B-production_type
+能	I-production_type
+机	I-production_type
+器	I-production_type
+人	I-production_type
+类	O
+的	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}, {"op": "eq", "name": "inception", "value": "2008年"}, {"op": "eq", "name": "technology", "value": "语音识别"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+2	B-inception
+0	I-inception
+0	I-inception
+8	I-inception
+年	I-inception
+你	B-${#institute}
+们	I-${#institute}
+关	O
+于	O
+语	B-technology
+音	I-technology
+识	I-technology
+别	I-technology
+的	O
+对	B-production_type
+话	I-production_type
+平	I-production_type
+台	I-production_type
+类	O
+的	O
+demo	O
+
+demos
+{"return_type": "demos", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}, {"op": "eq", "name": "inception", "value": "2018年"}, {"op": "eq", "name": "technology", "value": "语音合成"}, {"op": "eq", "name": "production_type", "value": "对话平台"}]}
+2	B-inception
+0	I-inception
+1	I-inception
+8	I-inception
+年	I-inception
+speechlab	B-${#institute}
+有	O
+那	O
+些	O
+有	O
+关	O
+语	B-technology
+音	I-technology
+合	I-technology
+成	I-technology
+的	O
+对	B-production_type
+话	I-production_type
+平	I-production_type
+台	I-production_type
+类	O
+demo	O
+
+patents
+{"return_type": "patents", "mainEntity": "你们那个领域", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那个领域"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+个	I-${#institute}
+领	I-${#institute}
+域	I-${#institute}
+的	O
+专	O
+利	O
+成	O
+果	O
+都	O
+有	O
+哪	O
+些	O
+
+patents
+{"return_type": "patents", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+块	I-${#institute}
+有	O
+哪	O
+些	O
+专	O
+利	O
+成	O
+果	O
+
+patents
+{"return_type": "patents", "mainEntity": "智能语音实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音实验室"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+的	O
+专	O
+利	O
+成	O
+果	O
+有	O
+哪	O
+些	O
+
+patents
+{"return_type": "patents", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+什	O
+么	O
+专	O
+利	O
+
+patents
+{"return_type": "patents", "mainEntity": "你们", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们"}]}
+你	B-${#institute}
+们	I-${#institute}
+有	O
+哪	O
+些	O
+专	O
+利	O
+成	O
+果	O
+
+patents
+{"return_type": "patents", "mainEntity": "你们那块", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们那块"}]}
+你	B-${#institute}
+们	I-${#institute}
+那	I-${#institute}
+块	I-${#institute}
+的	O
+论	O
+文	O
+成	O
+果	O
+都	O
+有	O
+什	O
+么	O
+
+patents
+{"return_type": "patents", "mainEntity": "你们实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "你们实验室"}, {"op": "eq", "name": "technology", "value": "语音唤醒"}]}
+你	B-${#institute}
+们	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+有	O
+哪	O
+些	O
+跟	O
+语	B-technology
+音	I-technology
+唤	I-technology
+醒	I-technology
+相	O
+关	O
+的	O
+专	O
+利	O
+成	O
+果	O
+
+patents
+{"return_type": "patents", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+里	O
+涉	O
+及	O
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+的	O
+专	O
+利	O
+成	O
+果	O
+有	O
+哪	O
+些	O
+
+patents
+{"return_type": "patents", "mainEntity": "智能语音技术实验室", "slots": [{"op": "eq", "name": "${#institute}", "value": "智能语音技术实验室"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+智	B-${#institute}
+能	I-${#institute}
+语	I-${#institute}
+音	I-${#institute}
+技	I-${#institute}
+术	I-${#institute}
+实	I-${#institute}
+验	I-${#institute}
+室	I-${#institute}
+涉	O
+及	O
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+的	O
+专	O
+利	O
+成	O
+果	O
+有	O
+哪	O
+些	O
+
+patents
+{"return_type": "patents", "mainEntity": "speechlab", "slots": [{"op": "eq", "name": "${#institute}", "value": "speechlab"}, {"op": "eq", "name": "technology", "value": "说话人识别"}]}
+speechlab	B-${#institute}
+有	O
+哪	O
+些	O
+涉	O
+及	O
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+的	O
+专	O
+利	O
+成	O
+果	O
+
+gender
+{"return_type": "gender", "mainEntity": "陈博", "slots": [{"op": "eq", "name": "${#person}", "value": "陈博"}]}
+陈	B-${#person}
+博	I-${#person}
+是	O
+男	O
+生	O
+
+gender
+{"return_type": "gender", "mainEntity": "钱老师", "slots": [{"op": "eq", "name": "${#person}", "value": "钱老师"}]}
+什	O
+么	O
+是	O
+钱	B-${#person}
+老	I-${#person}
+师	I-${#person}
+的	O
+性	O
+别	O
+
+date_of_birth
+{"return_type": "date_of_birth", "mainEntity": "陈志", "slots": [{"op": "eq", "name": "${#person}", "value": "陈志"}]}
+陈	B-${#person}
+志	I-${#person}
+的	O
+生	O
+日	O
+是	O
+哪	O
+一	O
+年	O
+
+date_of_birth
+{"return_type": "date_of_birth", "mainEntity": "陈志", "slots": [{"op": "eq", "name": "${#person}", "value": "陈志"}]}
+陈	B-${#person}
+志	I-${#person}
+在	O
+哪	O
+一	O
+年	O
+出	O
+生	O
+
+date_of_birth
+{"return_type": "date_of_birth", "mainEntity": "李豪", "slots": [{"op": "eq", "name": "${#person}", "value": "李豪"}]}
+李	B-${#person}
+豪	I-${#person}
+生	O
+日	O
+哪	O
+一	O
+天	O
+
+date_of_birth
+{"return_type": "date_of_birth", "mainEntity": "毕梦霄", "slots": [{"op": "eq", "name": "${#person}", "value": "毕梦霄"}]}
+毕	B-${#person}
+梦	I-${#person}
+霄	I-${#person}
+的	O
+年	O
+龄	O
+是	O
+多	O
+少	O
+
+date_of_birth
+{"return_type": "date_of_birth", "mainEntity": "曹睿升", "slots": [{"op": "eq", "name": "${#person}", "value": "曹睿升"}]}
+曹	B-${#person}
+睿	I-${#person}
+升	I-${#person}
+今	O
+年	O
+多	O
+大	O
+
+place_of_birth
+{"return_type": "place_of_birth", "mainEntity": "谭天", "slots": [{"op": "eq", "name": "${#person}", "value": "谭天"}]}
+谭	B-${#person}
+天	I-${#person}
+的	O
+老	O
+家	O
+在	O
+哪	O
+个	O
+省	O
+份	O
+
+place_of_birth
+{"return_type": "place_of_birth", "mainEntity": "钱老师", "slots": [{"op": "eq", "name": "${#person}", "value": "钱老师"}]}
+钱	B-${#person}
+老	I-${#person}
+师	I-${#person}
+的	O
+老	O
+家	O
+在	O
+哪	O
+
+place_of_birth
+{"return_type": "place_of_birth", "mainEntity": "dcp", "slots": [{"op": "eq", "name": "${#person}", "value": "dcp"}]}
+dcp	B-${#person}
+在	O
+哪	O
+出	O
+生	O
+
+country_of_citizen
+{"return_type": "country_of_citizen", "mainEntity": "陈露", "slots": [{"op": "eq", "name": "${#person}", "value": "陈露"}]}
+陈	B-${#person}
+露	I-${#person}
+是	O
+哪	O
+国	O
+人	O
+
+country_of_citizen
+{"return_type": "country_of_citizen", "mainEntity": "henri", "slots": [{"op": "eq", "name": "${#person}", "value": "henri"}]}
+henri	B-${#person}
+是	O
+哪	O
+个	O
+国	O
+家	O
+的	O
+
+year_of_join
+{"return_type": "year_of_join", "mainEntity": "zhehuai chen", "slots": [{"op": "eq", "name": "${#person}", "value": "zhehuai chen"}]}
+zhehuai	B-${#person}
+chen	I-${#person}
+是	O
+哪	O
+年	O
+加	O
+入	O
+实	O
+验	O
+室	O
+的	O
+
+year_of_join
+{"return_type": "year_of_join", "mainEntity": "陈哲怀", "slots": [{"op": "eq", "name": "${#person}", "value": "陈哲怀"}]}
+陈	B-${#person}
+哲	I-${#person}
+怀	I-${#person}
+什	O
+么	O
+时	O
+候	O
+进	O
+的	O
+实	O
+验	O
+室	O
+
+email
+{"return_type": "email", "mainEntity": "常成", "slots": [{"op": "eq", "name": "${#person}", "value": "常成"}]}
+常	B-${#person}
+成	I-${#person}
+的	O
+联	O
+系	O
+方	O
+式	O
+是	O
+什	O
+么	O
+
+email
+{"return_type": "email", "mainEntity": "常成", "slots": [{"op": "eq", "name": "${#person}", "value": "常成"}]}
+常	B-${#person}
+成	I-${#person}
+怎	O
+么	O
+联	O
+系	O
+
+email
+{"return_type": "email", "mainEntity": "常成", "slots": [{"op": "eq", "name": "${#person}", "value": "常成"}]}
+常	B-${#person}
+成	I-${#person}
+的	O
+联	O
+系	O
+方	O
+式	O
+是	O
+什	O
+么	O
+
+email
+{"return_type": "email", "mainEntity": "钱老师", "slots": [{"op": "eq", "name": "${#person}", "value": "钱老师"}]}
+钱	B-${#person}
+老	I-${#person}
+师	I-${#person}
+的	O
+联	O
+系	O
+方	O
+式	O
+是	O
+什	O
+么	O
+
+award
+{"return_type": "award", "mainEntity": "陈博", "slots": [{"op": "eq", "name": "${#person}", "value": "陈博"}]}
+陈	B-${#person}
+博	I-${#person}
+获	O
+得	O
+过	O
+哪	O
+些	O
+奖	O
+牌	O
+
+award
+{"return_type": "award", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+俞	B-${#person}
+栋	I-${#person}
+拿	O
+过	O
+多	O
+少	O
+奖	O
+牌	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "陈哲怀", "slots": [{"op": "eq", "name": "${#person}", "value": "陈哲怀"}]}
+陈	B-${#person}
+哲	I-${#person}
+怀	I-${#person}
+在	O
+哪	O
+个	O
+学	O
+院	O
+读	O
+书	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "叶子豪", "slots": [{"op": "eq", "name": "${#person}", "value": "叶子豪"}]}
+叶	B-${#person}
+子	I-${#person}
+豪	I-${#person}
+是	O
+哪	O
+毕	O
+业	O
+的	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "曹瑞升", "slots": [{"op": "eq", "name": "${#person}", "value": "曹瑞升"}]}
+曹	B-${#person}
+瑞	I-${#person}
+升	I-${#person}
+毕	O
+业	O
+于	O
+哪	O
+所	O
+大	O
+学	O
+
+educated_at
+{"return_type": "educated_at", "mainEntity": "陈志", "slots": [{"op": "eq", "name": "${#person}", "value": "陈志"}]}
+陈	B-${#person}
+志	I-${#person}
+毕	O
+业	O
+于	O
+哪	O
+个	O
+学	O
+校	O
+
+academic_degree
+{"return_type": "academic_degree", "mainEntity": "赖家豪", "slots": [{"op": "eq", "name": "${#person}", "value": "赖家豪"}]}
+赖	B-${#person}
+家	I-${#person}
+豪	I-${#person}
+的	O
+最	O
+高	O
+学	O
+历	O
+是	O
+什	O
+么	O
+
+academic_degree
+{"return_type": "academic_degree", "mainEntity": "赖家豪", "slots": [{"op": "eq", "name": "${#person}", "value": "赖家豪"}]}
+赖	B-${#person}
+家	I-${#person}
+豪	I-${#person}
+的	O
+最	O
+高	O
+学	O
+历	O
+是	O
+什	O
+么	O
+
+occupation
+{"return_type": "occupation", "mainEntity": "刘轩", "slots": [{"op": "eq", "name": "${#person}", "value": "刘轩"}]}
+刘	B-${#person}
+轩	I-${#person}
+是	O
+什	O
+么	O
+职	O
+业	O
+
+occupation
+{"return_type": "occupation", "mainEntity": "朱苏", "slots": [{"op": "eq", "name": "${#person}", "value": "朱苏"}]}
+朱	B-${#person}
+苏	I-${#person}
+的	O
+职	O
+位	O
+是	O
+什	O
+么	O
+
+description
+{"return_type": "description", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+描	O
+述	O
+一	O
+下	O
+这	O
+个	O
+搞	O
+科	O
+研	O
+的	O
+俞	B-${#person}
+栋	I-${#person}
+
+description
+{"return_type": "description", "mainEntity": "俞栋", "slots": [{"op": "eq", "name": "${#person}", "value": "俞栋"}]}
+介	O
+绍	O
+一	O
+下	O
+俞	B-${#person}
+栋	I-${#person}
+
+description
+{"return_type": "description", "mainEntity": "mingkun huang", "slots": [{"op": "eq", "name": "${#person}", "value": "mingkun huang"}]}
+关	O
+于	O
+mingkun	B-${#person}
+huang	I-${#person}
+做	O
+研	O
+究	O
+的	O
+人	O
+生	O
+轨	O
+迹	O
+
+description
+{"return_type": "description", "mainEntity": "黄明坤", "slots": [{"op": "eq", "name": "${#person}", "value": "黄明坤"}]}
+黄	B-${#person}
+明	I-${#person}
+坤	I-${#person}
+的	O
+科	O
+研	O
+经	O
+历	O
+有	O
+哪	O
+些	O
+
+description
+{"return_type": "description", "mainEntity": "henri", "slots": [{"op": "eq", "name": "${#person}", "value": "henri"}]}
+henri	B-${#person}
+做	O
+科	O
+研	O
+的	O
+人	O
+生	O
+经	O
+历	O
+
+personal_website
+{"return_type": "personal_website", "mainEntity": "lingting ge", "slots": [{"op": "eq", "name": "${#person}", "value": "lingting ge"}]}
+lingting	B-${#person}
+ge	I-${#person}
+的	O
+博	O
+客	O
+是	O
+什	O
+么	O
+
+image
+{"return_type": "image", "mainEntity": "李豪", "slots": [{"op": "eq", "name": "${#person}", "value": "李豪"}]}
+李	B-${#person}
+豪	I-${#person}
+长	O
+什	O
+么	O
+样	O
+
+image
+{"return_type": "image", "mainEntity": "zhang san", "slots": [{"op": "eq", "name": "${#person}", "value": "zhang san"}]}
+有	O
+没	O
+有	O
+zhang	B-${#person}
+san	I-${#person}
+的	O
+照	O
+片	O
+网	O
+络	O
+地	O
+址	O
+
+field_of_work
+{"return_type": "field_of_work", "mainEntity": "henri", "slots": [{"op": "eq", "name": "${#person}", "value": "henri"}]}
+henri	B-${#person}
+的	O
+科	O
+研	O
+方	O
+向	O
+是	O
+什	O
+么	O
+
+${#person}
+{"return_type": "${#person}", "mainEntity": "", "slots": [{"op": "eq", "name": "field_of_work", "value": "语言模型"}]}
+语	B-field_of_work
+言	I-field_of_work
+模	I-field_of_work
+型	I-field_of_work
+的	O
+课	O
+题	O
+有	O
+哪	O
+些	O
+人	O
+研	O
+究	O
+
+${#person}
+{"return_type": "${#person}", "mainEntity": "", "slots": [{"op": "eq", "name": "field_of_work", "value": "语言模型"}]}
+哪	O
+些	O
+人	O
+是	O
+研	O
+究	O
+方	O
+向	O
+是	O
+语	B-field_of_work
+言	I-field_of_work
+模	I-field_of_work
+型	I-field_of_work
+
+${#person}
+{"return_type": "${#person}", "mainEntity": "", "slots": [{"op": "eq", "name": "field_of_work", "value": "语音合成"}]}
+谁	O
+是	O
+语	B-field_of_work
+音	I-field_of_work
+合	I-field_of_work
+成	I-field_of_work
+组	O
+的	O
+成	O
+员	O
+
+publication
+{"return_type": "publication", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}]}
+俞	B-${#person}
+凯	I-${#person}
+发	O
+了	O
+什	O
+么	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "钱彦旻", "slots": [{"op": "eq", "name": "${#person}", "value": "钱彦旻"}]}
+有	O
+没	O
+有	O
+钱	B-${#person}
+彦	I-${#person}
+旻	I-${#person}
+的	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "陈哲怀", "slots": [{"op": "eq", "name": "${#person}", "value": "陈哲怀"}]}
+有	O
+没	O
+有	O
+陈	B-${#person}
+哲	I-${#person}
+怀	I-${#person}
+的	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "毕梦霄", "slots": [{"op": "eq", "name": "${#person}", "value": "毕梦霄"}, {"op": "eq", "name": "publication_date", "value": "2019年"}]}
+毕	B-${#person}
+梦	I-${#person}
+霄	I-${#person}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+9	I-publication_date
+年	I-publication_date
+投	O
+过	O
+哪	O
+些	O
+文	O
+献	O
+
+publication
+{"return_type": "publication", "mainEntity": "钱老师", "slots": [{"op": "eq", "name": "${#person}", "value": "钱老师"}, {"op": "eq", "name": "publication_date", "value": "2015年"}]}
+钱	B-${#person}
+老	I-${#person}
+师	I-${#person}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+5	I-publication_date
+年	I-publication_date
+投	O
+过	O
+哪	O
+些	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "俞老师", "slots": [{"op": "eq", "name": "${#person}", "value": "俞老师"}, {"op": "eq", "name": "publication_date", "value": "2014年"}]}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+4	I-publication_date
+年	I-publication_date
+有	O
+没	O
+有	O
+俞	B-${#person}
+老	I-${#person}
+师	I-${#person}
+中	O
+的	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "谭天", "slots": [{"op": "eq", "name": "${#person}", "value": "谭天"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+谭	B-${#person}
+天	I-${#person}
+在	O
+icassp	B-published_in
+上	O
+发	O
+表	O
+的	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "钱教授", "slots": [{"op": "eq", "name": "${#person}", "value": "钱教授"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+有	O
+没	O
+有	O
+钱	B-${#person}
+教	I-${#person}
+授	I-${#person}
+在	O
+icassp	B-published_in
+上	O
+发	O
+表	O
+过	O
+的	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "刘媛", "slots": [{"op": "eq", "name": "${#person}", "value": "刘媛"}, {"op": "eq", "name": "publication_date", "value": "2003年"}, {"op": "eq", "name": "published_in", "value": "slt"}]}
+2	B-publication_date
+0	I-publication_date
+0	I-publication_date
+3	I-publication_date
+年	I-publication_date
+刘	B-${#person}
+媛	I-${#person}
+在	O
+slt	B-published_in
+上	O
+投	O
+中	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "刘媛", "slots": [{"op": "eq", "name": "${#person}", "value": "刘媛"}, {"op": "eq", "name": "publication_date", "value": "2018"}, {"op": "eq", "name": "published_in", "value": "slt"}]}
+于	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+8	I-publication_date
+刘	B-${#person}
+媛	I-${#person}
+都	O
+有	O
+哪	O
+些	O
+于	O
+slt	B-published_in
+会	O
+议	O
+上	O
+投	O
+中	O
+过	O
+文	O
+献	O
+
+publication
+{"return_type": "publication", "mainEntity": "邓力", "slots": [{"op": "eq", "name": "${#person}", "value": "邓力"}, {"op": "eq", "name": "publication_date", "value": "2010年"}, {"op": "eq", "name": "published_in", "value": "emnlp"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+0	I-publication_date
+年	I-publication_date
+邓	B-${#person}
+力	I-${#person}
+在	O
+emnlp	B-published_in
+发	O
+表	O
+了	O
+哪	O
+些	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "俞凯", "slots": [{"op": "eq", "name": "${#person}", "value": "俞凯"}, {"op": "eq", "name": "publication_date", "value": "2018年"}, {"op": "eq", "name": "published_in", "value": "icassp"}]}
+俞	B-${#person}
+凯	I-${#person}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+8	I-publication_date
+年	I-publication_date
+在	O
+icassp	B-published_in
+发	O
+表	O
+了	O
+几	O
+篇	O
+文	O
+章	O
+
+publication
+{"return_type": "publication", "mainEntity": "周瑛", "slots": [{"op": "eq", "name": "${#person}", "value": "周瑛"}, {"op": "eq", "name": "publication_date", "value": "2019年"}, {"op": "eq", "name": "published_in", "value": "ecai"}]}
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+9	I-publication_date
+年	I-publication_date
+周	B-${#person}
+瑛	I-${#person}
+在	O
+ecai	B-published_in
+上	O
+发	O
+表	O
+了	O
+哪	O
+几	O
+篇	O
+论	O
+文	O
+
+publication
+{"return_type": "publication", "mainEntity": "周瑛", "slots": [{"op": "eq", "name": "${#person}", "value": "周瑛"}, {"op": "eq", "name": "publication_date", "value": "2019年"}, {"op": "eq", "name": "published_in", "value": "ecai"}]}
+周	B-${#person}
+瑛	I-${#person}
+在	O
+2	B-publication_date
+0	I-publication_date
+1	I-publication_date
+9	I-publication_date
+年	I-publication_date
+ecai	B-published_in
+会	O
+议	O
+上	O
+发	O
+过	O
+哪	O
+些	O
+论	O
+文	O
+
+title
+{"return_type": "title", "mainEntity": "mlp-hmm two-stage unsupervised training for low-resource languages on conversational telephone speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "mlp-hmm two-stage unsupervised training for low-resource languages on conversational telephone speech recognition"}]}
+mlp	B-${#paper}
+-	I-${#paper}
+hmm	I-${#paper}
+two	I-${#paper}
+-	I-${#paper}
+stage	I-${#paper}
+unsupervised	I-${#paper}
+training	I-${#paper}
+for	I-${#paper}
+low	I-${#paper}
+-	I-${#paper}
+resource	I-${#paper}
+languages	I-${#paper}
+on	I-${#paper}
+conversational	I-${#paper}
+telephone	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+的	O
+标	O
+题	O
+是	O
+啥	O
+
+title
+{"return_type": "title", "mainEntity": "an empirical study of smoothing techniques for language modeling", "slots": [{"op": "eq", "name": "${#paper}", "value": "an empirical study of smoothing techniques for language modeling"}]}
+论	O
+文	O
+an	B-${#paper}
+empirical	I-${#paper}
+study	I-${#paper}
+of	I-${#paper}
+smoothing	I-${#paper}
+techniques	I-${#paper}
+for	I-${#paper}
+language	I-${#paper}
+modeling	I-${#paper}
+的	O
+标	O
+题	O
+是	O
+什	O
+么	O
+
+title
+{"return_type": "title", "mainEntity": "comparison of modeling target in lstm-rnn duration model", "slots": [{"op": "eq", "name": "${#paper}", "value": "comparison of modeling target in lstm-rnn duration model"}]}
+comparison	B-${#paper}
+of	I-${#paper}
+modeling	I-${#paper}
+target	I-${#paper}
+in	I-${#paper}
+lstm	I-${#paper}
+-	I-${#paper}
+rnn	I-${#paper}
+duration	I-${#paper}
+model	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+完	O
+整	O
+论	O
+文	O
+名	O
+是	O
+什	O
+么	O
+
+title
+{"return_type": "title", "mainEntity": "comparison of modeling target in lstm-rnn duration model", "slots": [{"op": "eq", "name": "${#paper}", "value": "comparison of modeling target in lstm-rnn duration model"}]}
+comparison	B-${#paper}
+of	I-${#paper}
+modeling	I-${#paper}
+target	I-${#paper}
+in	I-${#paper}
+lstm	I-${#paper}
+-	I-${#paper}
+rnn	I-${#paper}
+duration	I-${#paper}
+model	I-${#paper}
+的	O
+标	O
+题	O
+是	O
+啥	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "affordable on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "affordable on-line dialogue policy learning"}]}
+affordable	B-${#paper}
+on	I-${#paper}
+-	I-${#paper}
+line	I-${#paper}
+dialogue	I-${#paper}
+policy	I-${#paper}
+learning	I-${#paper}
+这	O
+个	O
+文	O
+章	O
+有	O
+哪	O
+些	O
+新	O
+颖	O
+的	O
+思	O
+路	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "affordable on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "affordable on-line dialogue policy learning"}]}
+affordable	B-${#paper}
+on	I-${#paper}
+-	I-${#paper}
+line	I-${#paper}
+dialogue	I-${#paper}
+policy	I-${#paper}
+learning	I-${#paper}
+讨	O
+论	O
+了	O
+什	O
+么	O
+问	O
+题	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "affordable on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "affordable on-line dialogue policy learning"}]}
+affordable	B-${#paper}
+on	I-${#paper}
+-	I-${#paper}
+line	I-${#paper}
+dialogue	I-${#paper}
+policy	I-${#paper}
+learning	I-${#paper}
+这	O
+篇	O
+文	O
+献	O
+有	O
+哪	O
+些	O
+新	O
+颖	O
+的	O
+思	O
+路	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "affordable on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "affordable on-line dialogue policy learning"}]}
+affordable	B-${#paper}
+on	I-${#paper}
+-	I-${#paper}
+line	I-${#paper}
+dialogue	I-${#paper}
+policy	I-${#paper}
+learning	I-${#paper}
+这	O
+一	O
+个	O
+文	O
+章	O
+主	O
+要	O
+讨	O
+论	O
+了	O
+什	O
+么	O
+问	O
+题	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+what	B-${#paper}
+does	I-${#paper}
+the	I-${#paper}
+speaker	I-${#paper}
+embedding	I-${#paper}
+encode	I-${#paper}
+这	O
+一	O
+篇	O
+论	O
+文	O
+的	O
+想	O
+法	O
+大	O
+概	O
+有	O
+哪	O
+些	O
+
+abstract
+{"return_type": "abstract", "mainEntity": "an empirical study of smoothing techniques for language modeling", "slots": [{"op": "eq", "name": "${#paper}", "value": "an empirical study of smoothing techniques for language modeling"}]}
+an	B-${#paper}
+empirical	I-${#paper}
+study	I-${#paper}
+of	I-${#paper}
+smoothing	I-${#paper}
+techniques	I-${#paper}
+for	I-${#paper}
+language	I-${#paper}
+modeling	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+讲	O
+的	O
+是	O
+什	O
+么	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "integrating online i-vector into gmm-ubm for text-dependent speaker verification", "slots": [{"op": "eq", "name": "${#paper}", "value": "integrating online i-vector into gmm-ubm for text-dependent speaker verification"}]}
+integrating	B-${#paper}
+online	I-${#paper}
+i	I-${#paper}
+-	I-${#paper}
+vector	I-${#paper}
+into	I-${#paper}
+gmm	I-${#paper}
+-	I-${#paper}
+ubm	I-${#paper}
+for	I-${#paper}
+text	I-${#paper}
+-	I-${#paper}
+dependent	I-${#paper}
+speaker	I-${#paper}
+verification	I-${#paper}
+什	O
+么	O
+时	O
+候	O
+发	O
+表	O
+的	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "integrating online i-vector into gmm-ubm for text-dependent speaker verification", "slots": [{"op": "eq", "name": "${#paper}", "value": "integrating online i-vector into gmm-ubm for text-dependent speaker verification"}]}
+integrating	B-${#paper}
+online	I-${#paper}
+i	I-${#paper}
+-	I-${#paper}
+vector	I-${#paper}
+into	I-${#paper}
+gmm	I-${#paper}
+-	I-${#paper}
+ubm	I-${#paper}
+for	I-${#paper}
+text	I-${#paper}
+-	I-${#paper}
+dependent	I-${#paper}
+speaker	I-${#paper}
+verification	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+是	O
+什	O
+么	O
+时	O
+候	O
+发	O
+表	O
+的	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "a generalized rule based tracker for dialogue state tracking", "slots": [{"op": "eq", "name": "${#paper}", "value": "a generalized rule based tracker for dialogue state tracking"}]}
+a	B-${#paper}
+generalized	I-${#paper}
+rule	I-${#paper}
+based	I-${#paper}
+tracker	I-${#paper}
+for	I-${#paper}
+dialogue	I-${#paper}
+state	I-${#paper}
+tracking	I-${#paper}
+这	O
+一	O
+篇	O
+paper	O
+发	O
+表	O
+时	O
+间	O
+是	O
+哪	O
+一	O
+天	O
+
+published_in
+{"return_type": "published_in", "mainEntity": "combination of data borrowing strategies for low-resource lvcsr", "slots": [{"op": "eq", "name": "${#paper}", "value": "combination of data borrowing strategies for low-resource lvcsr"}]}
+combination	B-${#paper}
+of	I-${#paper}
+data	I-${#paper}
+borrowing	I-${#paper}
+strategies	I-${#paper}
+for	I-${#paper}
+low	I-${#paper}
+-	I-${#paper}
+resource	I-${#paper}
+lvcsr	I-${#paper}
+发	O
+表	O
+在	O
+哪	O
+个	O
+会	O
+议	O
+
+published_in
+{"return_type": "published_in", "mainEntity": "combination of data borrowing strategies for low-resource lvcsr", "slots": [{"op": "eq", "name": "${#paper}", "value": "combination of data borrowing strategies for low-resource lvcsr"}]}
+combination	B-${#paper}
+of	I-${#paper}
+data	I-${#paper}
+borrowing	I-${#paper}
+strategies	I-${#paper}
+for	I-${#paper}
+low	I-${#paper}
+-	I-${#paper}
+resource	I-${#paper}
+lvcsr	I-${#paper}
+是	O
+哪	O
+个	O
+会	O
+议	O
+上	O
+发	O
+表	O
+的	O
+文	O
+献	O
+
+published_in
+{"return_type": "published_in", "mainEntity": "recurrent neural network language model with structured word embeddings for speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "recurrent neural network language model with structured word embeddings for speech recognition"}]}
+recurrent	B-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+language	I-${#paper}
+model	I-${#paper}
+with	I-${#paper}
+structured	I-${#paper}
+word	I-${#paper}
+embeddings	I-${#paper}
+for	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+发	O
+表	O
+在	O
+哪	O
+
+link
+{"return_type": "link", "mainEntity": "agent-aware dropout dqn for safe and efficient on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "agent-aware dropout dqn for safe and efficient on-line dialogue policy learning"}]}
+agent	B-${#paper}
+-	I-${#paper}
+aware	I-${#paper}
+dropout	I-${#paper}
+dqn	I-${#paper}
+for	I-${#paper}
+safe	I-${#paper}
+and	I-${#paper}
+efficient	I-${#paper}
+on	I-${#paper}
+-	I-${#paper}
+line	I-${#paper}
+dialogue	I-${#paper}
+policy	I-${#paper}
+learning	I-${#paper}
+这	O
+paper	O
+在	O
+哪	O
+里	O
+可	O
+以	O
+阅	O
+读	O
+
+link
+{"return_type": "link", "mainEntity": "agent-aware dropout dqn for safe and efficient on-line dialogue policy learning", "slots": [{"op": "eq", "name": "${#paper}", "value": "agent-aware dropout dqn for safe and efficient on-line dialogue policy learning"}]}
+agent	B-${#paper}
+-	I-${#paper}
+aware	I-${#paper}
+dropout	I-${#paper}
+dqn	I-${#paper}
+for	I-${#paper}
+safe	I-${#paper}
+and	I-${#paper}
+efficient	I-${#paper}
+on	I-${#paper}
+-	I-${#paper}
+line	I-${#paper}
+dialogue	I-${#paper}
+policy	I-${#paper}
+learning	I-${#paper}
+这	O
+篇	O
+文	O
+章	O
+在	O
+哪	O
+里	O
+可	O
+以	O
+读	O
+到	O
+
+link
+{"return_type": "link", "mainEntity": "estimation of probabilities from sparse data for thelanguage model component of a speech recognizer", "slots": [{"op": "eq", "name": "${#paper}", "value": "estimation of probabilities from sparse data for thelanguage model component of a speech recognizer"}]}
+我	O
+在	O
+哪	O
+能	O
+看	O
+到	O
+estimation	B-${#paper}
+of	I-${#paper}
+probabilities	I-${#paper}
+from	I-${#paper}
+sparse	I-${#paper}
+data	I-${#paper}
+for	I-${#paper}
+thelanguage	I-${#paper}
+model	I-${#paper}
+component	I-${#paper}
+of	I-${#paper}
+a	I-${#paper}
+speech	I-${#paper}
+recognizer	I-${#paper}
+这	O
+篇	O
+文	O
+章	O
+
+link
+{"return_type": "link", "mainEntity": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition"}]}
+在	O
+哪	O
+个	O
+链	O
+接	O
+可	O
+以	O
+看	O
+到	O
+automatic	B-${#paper}
+model	I-${#paper}
+redundancy	I-${#paper}
+reduction	I-${#paper}
+for	I-${#paper}
+fast	I-${#paper}
+back	I-${#paper}
+-	I-${#paper}
+propagation	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+networks	I-${#paper}
+in	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+
+link
+{"return_type": "link", "mainEntity": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition"}]}
+automatic	B-${#paper}
+model	I-${#paper}
+redundancy	I-${#paper}
+reduction	I-${#paper}
+for	I-${#paper}
+fast	I-${#paper}
+back	I-${#paper}
+-	I-${#paper}
+propagation	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+networks	I-${#paper}
+in	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+的	O
+网	O
+络	O
+链	O
+接	O
+
+link
+{"return_type": "link", "mainEntity": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition"}]}
+automatic	B-${#paper}
+model	I-${#paper}
+redundancy	I-${#paper}
+reduction	I-${#paper}
+for	I-${#paper}
+fast	I-${#paper}
+back	I-${#paper}
+-	I-${#paper}
+propagation	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+networks	I-${#paper}
+in	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+的	O
+论	O
+文	O
+链	O
+接	O
+在	O
+哪	O
+里	O
+
+link
+{"return_type": "link", "mainEntity": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "automatic model redundancy reduction for fast back-propagation for deep neural networks in speech recognition"}]}
+在	O
+哪	O
+一	O
+个	O
+地	O
+方	O
+可	O
+以	O
+下	O
+载	O
+automatic	B-${#paper}
+model	I-${#paper}
+redundancy	I-${#paper}
+reduction	I-${#paper}
+for	I-${#paper}
+fast	I-${#paper}
+back	I-${#paper}
+-	I-${#paper}
+propagation	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+networks	I-${#paper}
+in	I-${#paper}
+speech	I-${#paper}
+recognition	I-${#paper}
+文	O
+章	O
+
+award
+{"return_type": "award", "mainEntity": "cognitive technology in task-oriented dialogue systems–conceptsadvances and future", "slots": [{"op": "eq", "name": "${#paper}", "value": "cognitive technology in task-oriented dialogue systems–conceptsadvances and future"}]}
+cognitive	B-${#paper}
+technology	I-${#paper}
+in	I-${#paper}
+task	I-${#paper}
+-	I-${#paper}
+oriented	I-${#paper}
+dialogue	I-${#paper}
+systems	I-${#paper}
+–	I-${#paper}
+conceptsadvances	I-${#paper}
+and	I-${#paper}
+future	I-${#paper}
+取	O
+得	O
+了	O
+哪	O
+些	O
+重	O
+大	O
+的	O
+研	O
+究	O
+成	O
+果	O
+
+award
+{"return_type": "award", "mainEntity": "cognitive technology in task-oriented dialogue systems–conceptsadvances and future", "slots": [{"op": "eq", "name": "${#paper}", "value": "cognitive technology in task-oriented dialogue systems–conceptsadvances and future"}]}
+cognitive	B-${#paper}
+technology	I-${#paper}
+in	I-${#paper}
+task	I-${#paper}
+-	I-${#paper}
+oriented	I-${#paper}
+dialogue	I-${#paper}
+systems	I-${#paper}
+–	I-${#paper}
+conceptsadvances	I-${#paper}
+and	I-${#paper}
+future	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+在	O
+国	O
+际	O
+上	O
+的	O
+过	O
+什	O
+么	O
+重	O
+大	O
+的	O
+奖	O
+项	O
+
+award
+{"return_type": "award", "mainEntity": "an empirical study of smoothing techniques for language modeling", "slots": [{"op": "eq", "name": "${#paper}", "value": "an empirical study of smoothing techniques for language modeling"}]}
+an	B-${#paper}
+empirical	I-${#paper}
+study	I-${#paper}
+of	I-${#paper}
+smoothing	I-${#paper}
+techniques	I-${#paper}
+for	I-${#paper}
+language	I-${#paper}
+modeling	I-${#paper}
+有	O
+什	O
+么	O
+贡	O
+献	O
+
+award
+{"return_type": "award", "mainEntity": "acoustic emotion recognition using deep neural network", "slots": [{"op": "eq", "name": "${#paper}", "value": "acoustic emotion recognition using deep neural network"}]}
+acoustic	B-${#paper}
+emotion	I-${#paper}
+recognition	I-${#paper}
+using	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+取	O
+得	O
+了	O
+哪	O
+些	O
+国	O
+际	O
+性	O
+的	O
+成	O
+就	O
+
+award
+{"return_type": "award", "mainEntity": "acoustic emotion recognition using deep neural network", "slots": [{"op": "eq", "name": "${#paper}", "value": "acoustic emotion recognition using deep neural network"}]}
+acoustic	B-${#paper}
+emotion	I-${#paper}
+recognition	I-${#paper}
+using	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+取	O
+得	O
+了	O
+哪	O
+些	O
+国	O
+际	O
+性	O
+成	O
+就	O
+
+author
+{"return_type": "author", "mainEntity": "recurrent polynomial network for dialogue state tracking with mismatched semantic parsers", "slots": [{"op": "eq", "name": "${#paper}", "value": "recurrent polynomial network for dialogue state tracking with mismatched semantic parsers"}]}
+recurrent	B-${#paper}
+polynomial	I-${#paper}
+network	I-${#paper}
+for	I-${#paper}
+dialogue	I-${#paper}
+state	I-${#paper}
+tracking	I-${#paper}
+with	I-${#paper}
+mismatched	I-${#paper}
+semantic	I-${#paper}
+parsers	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+有	O
+哪	O
+些	O
+人	O
+参	O
+与	O
+发	O
+表	O
+
+author
+{"return_type": "author", "mainEntity": "icmi12grand challenge-haptic voice recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "icmi12grand challenge-haptic voice recognition"}]}
+是	O
+谁	O
+写	O
+的	O
+icmi	B-${#paper}
+1	I-${#paper}
+2	I-${#paper}
+grand	I-${#paper}
+challenge	I-${#paper}
+-	I-${#paper}
+haptic	I-${#paper}
+voice	I-${#paper}
+recognition	I-${#paper}
+
+author
+{"return_type": "author", "mainEntity": "icmi12grand challenge-haptic voice recognition", "slots": [{"op": "eq", "name": "${#paper}", "value": "icmi12grand challenge-haptic voice recognition"}]}
+是	O
+哪	O
+个	O
+实	O
+验	O
+室	O
+发	O
+表	O
+了	O
+icmi	B-${#paper}
+1	I-${#paper}
+2	I-${#paper}
+grand	I-${#paper}
+challenge	I-${#paper}
+-	I-${#paper}
+haptic	I-${#paper}
+voice	I-${#paper}
+recognition	I-${#paper}
+这	O
+个	O
+文	O
+章	O
+
+first_author
+{"return_type": "first_author", "mainEntity": "discrete duration model for speech synthesis", "slots": [{"op": "eq", "name": "${#paper}", "value": "discrete duration model for speech synthesis"}]}
+哪	O
+个	O
+人	O
+是	O
+discrete	B-${#paper}
+duration	I-${#paper}
+model	I-${#paper}
+for	I-${#paper}
+speech	I-${#paper}
+synthesis	I-${#paper}
+的	O
+第	O
+一	O
+作	O
+者	O
+
+first_author
+{"return_type": "first_author", "mainEntity": "cluster adaptive training for deep neural network based acoustic model", "slots": [{"op": "eq", "name": "${#paper}", "value": "cluster adaptive training for deep neural network based acoustic model"}]}
+cluster	B-${#paper}
+adaptive	I-${#paper}
+training	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+based	I-${#paper}
+acoustic	I-${#paper}
+model	I-${#paper}
+的	O
+第	O
+一	O
+作	O
+者	O
+是	O
+谁	O
+
+first_author
+{"return_type": "first_author", "mainEntity": "cluster adaptive training for deep neural network based acoustic model", "slots": [{"op": "eq", "name": "${#paper}", "value": "cluster adaptive training for deep neural network based acoustic model"}]}
+什	O
+么	O
+人	O
+是	O
+cluster	B-${#paper}
+adaptive	I-${#paper}
+training	I-${#paper}
+for	I-${#paper}
+deep	I-${#paper}
+neural	I-${#paper}
+network	I-${#paper}
+based	I-${#paper}
+acoustic	I-${#paper}
+model	I-${#paper}
+这	O
+个	O
+文	O
+献	O
+第	O
+二	O
+作	O
+者	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+what	B-${#paper}
+does	I-${#paper}
+the	I-${#paper}
+speaker	I-${#paper}
+embedding	I-${#paper}
+encode	I-${#paper}
+是	O
+哪	O
+个	O
+机	O
+构	O
+的	O
+人	O
+发	O
+表	O
+的	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+what	B-${#paper}
+does	I-${#paper}
+the	I-${#paper}
+speaker	I-${#paper}
+embedding	I-${#paper}
+encode	I-${#paper}
+这	O
+篇	O
+论	O
+文	O
+是	O
+哪	O
+个	O
+机	O
+构	O
+的	O
+人	O
+发	O
+表	O
+的	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "what does the speaker embedding encode", "slots": [{"op": "eq", "name": "${#paper}", "value": "what does the speaker embedding encode"}]}
+哪	O
+一	O
+个	O
+会	O
+议	O
+发	O
+表	O
+了	O
+what	B-${#paper}
+does	I-${#paper}
+the	I-${#paper}
+speaker	I-${#paper}
+embedding	I-${#paper}
+encode	I-${#paper}
+这	O
+一	O
+个	O
+paper	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "speaker-aware training of lstm-rnns for acoustic modeling", "slots": [{"op": "eq", "name": "${#paper}", "value": "speaker-aware training of lstm-rnns for acoustic modeling"}]}
+speaker	B-${#paper}
+-	I-${#paper}
+aware	I-${#paper}
+training	I-${#paper}
+of	I-${#paper}
+lstm	I-${#paper}
+-	I-${#paper}
+rnns	I-${#paper}
+for	I-${#paper}
+acoustic	I-${#paper}
+modeling	I-${#paper}
+是	O
+由	O
+哪	O
+个	O
+组	O
+织	O
+的	O
+学	O
+者	O
+写	O
+的	O
+
+institute_place
+{"return_type": "institute_place", "mainEntity": "speaker-aware training of lstm-rnns for acoustic modeling", "slots": [{"op": "eq", "name": "${#paper}", "value": "speaker-aware training of lstm-rnns for acoustic modeling"}]}
+speaker	B-${#paper}
+-	I-${#paper}
+aware	I-${#paper}
+training	I-${#paper}
+of	I-${#paper}
+lstm	I-${#paper}
+-	I-${#paper}
+rnns	I-${#paper}
+for	I-${#paper}
+acoustic	I-${#paper}
+modeling	I-${#paper}
+这	O
+篇	O
+文	O
+章	O
+的	O
+作	O
+者	O
+属	O
+于	O
+哪	O
+家	O
+单	O
+位	O
+
+description
+{"return_type": "description", "mainEntity": "思必驰纠错哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰纠错哥"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+纠	I-${#demo}
+错	I-${#demo}
+哥	I-${#demo}
+的	O
+介	O
+绍	O
+
+description
+{"return_type": "description", "mainEntity": "思必驰纠错哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰纠错哥"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+纠	I-${#demo}
+错	I-${#demo}
+哥	I-${#demo}
+这	O
+款	O
+产	O
+品	O
+各	O
+方	O
+面	O
+的	O
+特	O
+点	O
+都	O
+有	O
+些	O
+什	O
+么	O
+
+description
+{"return_type": "description", "mainEntity": "思必驰纠错哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰纠错哥"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+纠	I-${#demo}
+错	I-${#demo}
+哥	I-${#demo}
+的	O
+产	O
+品	O
+介	O
+绍	O
+
+description
+{"return_type": "description", "mainEntity": "语义输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "语义输入板"}]}
+介	O
+绍	O
+语	B-${#demo}
+义	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+这	O
+款	O
+产	O
+品	O
+
+description
+{"return_type": "description", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+从	O
+各	O
+方	O
+面	O
+家	O
+介	O
+绍	O
+一	O
+下	O
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+这	O
+一	O
+项	O
+产	O
+品	O
+
+description
+{"return_type": "description", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+介	O
+绍	O
+下	O
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+
+link
+{"return_type": "link", "mainEntity": "思必驰纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰纠正哥"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+纠	I-${#demo}
+正	I-${#demo}
+哥	I-${#demo}
+的	O
+下	O
+载	O
+网	O
+址	O
+在	O
+哪	O
+
+link
+{"return_type": "link", "mainEntity": "纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "纠正哥"}]}
+纠	B-${#demo}
+正	I-${#demo}
+哥	I-${#demo}
+在	O
+哪	O
+里	O
+可	O
+以	O
+获	O
+取	O
+
+link
+{"return_type": "link", "mainEntity": "小爱同学", "slots": [{"op": "eq", "name": "${#demo}", "value": "小爱同学"}]}
+在	O
+哪	O
+里	O
+能	O
+获	O
+得	O
+小	B-${#demo}
+爱	I-${#demo}
+同	I-${#demo}
+学	I-${#demo}
+这	O
+款	O
+产	O
+品	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "输入板"}]}
+输	B-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+这	O
+个	O
+产	O
+品	O
+属	O
+于	O
+什	O
+么	O
+类	O
+别	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音输入板"}]}
+语	B-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+的	O
+产	O
+品	O
+类	O
+别	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音输入板"}]}
+语	B-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+的	O
+类	O
+别	O
+是	O
+什	O
+么	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "纠正哥"}]}
+纠	B-${#demo}
+正	I-${#demo}
+哥	I-${#demo}
+这	O
+个	O
+demo	O
+属	O
+于	O
+什	O
+么	O
+产	O
+品	O
+分	O
+类	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "纠正哥"}]}
+思	O
+必	O
+驰	O
+纠	B-${#demo}
+正	I-${#demo}
+哥	I-${#demo}
+属	O
+于	O
+什	O
+么	O
+产	O
+品	O
+
+production_type
+{"return_type": "production_type", "mainEntity": "纠正哥", "slots": [{"op": "eq", "name": "${#demo}", "value": "纠正哥"}]}
+纠	B-${#demo}
+正	I-${#demo}
+哥	I-${#demo}
+这	O
+个	O
+demo	O
+的	O
+产	O
+品	O
+成	O
+本	O
+是	O
+多	O
+少	O
+
+inception
+{"return_type": "inception", "mainEntity": "mobile checkin", "slots": [{"op": "eq", "name": "${#demo}", "value": "mobile checkin"}]}
+mobile	B-${#demo}
+checkin	I-${#demo}
+这	O
+项	O
+demo	O
+大	O
+概	O
+在	O
+哪	O
+年	O
+推	O
+出	O
+的	O
+
+inception
+{"return_type": "inception", "mainEntity": "语音合成", "slots": [{"op": "eq", "name": "${#demo}", "value": "语音合成"}]}
+在	O
+哪	O
+年	O
+提	O
+出	O
+了	O
+语	B-${#demo}
+音	I-${#demo}
+合	I-${#demo}
+成	I-${#demo}
+的	O
+技	O
+术	O
+
+technology
+{"return_type": "technology", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+demo	O
+涉	O
+及	O
+了	O
+哪	O
+一	O
+领	O
+域	O
+的	O
+知	O
+识	O
+
+technology
+{"return_type": "technology", "mainEntity": "思必驰语音输入板", "slots": [{"op": "eq", "name": "${#demo}", "value": "思必驰语音输入板"}]}
+思	B-${#demo}
+必	I-${#demo}
+驰	I-${#demo}
+语	I-${#demo}
+音	I-${#demo}
+输	I-${#demo}
+入	I-${#demo}
+板	I-${#demo}
+运	O
+用	O
+了	O
+哪	O
+些	O
+技	O
+术	O
+
+technology
+{"return_type": "technology", "mainEntity": "51单片机", "slots": [{"op": "eq", "name": "${#demo}", "value": "51单片机"}]}
+5	B-${#demo}
+1	I-${#demo}
+单	I-${#demo}
+片	I-${#demo}
+机	I-${#demo}
+是	O
+都	O
+关	O
+于	O
+了	O
+哪	O
+一	O
+领	O
+域	O
+知	O
+识	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "对话系统类"}]}
+对	B-technology
+话	I-technology
+系	I-technology
+统	I-technology
+类	I-technology
+的	O
+产	O
+品	O
+有	O
+哪	O
+些	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "对话系统类"}]}
+哪	O
+些	O
+产	O
+品	O
+使	O
+用	O
+了	O
+对	B-technology
+话	I-technology
+系	I-technology
+统	I-technology
+类	I-technology
+领	O
+域	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "模式识别"}]}
+都	O
+有	O
+些	O
+什	O
+么	O
+产	O
+品	O
+运	O
+用	O
+了	O
+模	B-technology
+式	I-technology
+识	I-technology
+别	I-technology
+领	O
+域	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "说话人识别"}]}
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+的	O
+相	O
+关	O
+产	O
+品	O
+有	O
+哪	O
+些	O
+
+${#demo}
+{"return_type": "${#demo}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "说话人识别"}]}
+与	O
+说	B-technology
+话	I-technology
+人	I-technology
+识	I-technology
+别	I-technology
+相	O
+关	O
+的	O
+产	O
+品	O
+
+description
+{"return_type": "description", "mainEntity": "语音合成", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音合成"}]}
+谈	O
+一	O
+下	O
+语	B-${#concept}
+音	I-${#concept}
+合	I-${#concept}
+成	I-${#concept}
+这	O
+个	O
+领	O
+域	O
+
+description
+{"return_type": "description", "mainEntity": "语音识别", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音识别"}]}
+简	O
+单	O
+介	O
+绍	O
+一	O
+下	O
+语	B-${#concept}
+音	I-${#concept}
+识	I-${#concept}
+别	I-${#concept}
+技	O
+术	O
+
+inception
+{"return_type": "inception", "mainEntity": "声学模型", "slots": [{"op": "eq", "name": "${#concept}", "value": "声学模型"}]}
+在	O
+哪	O
+年	O
+提	O
+出	O
+了	O
+声	B-${#concept}
+学	I-${#concept}
+模	I-${#concept}
+型	I-${#concept}
+这	O
+个	O
+方	O
+向	O
+
+inception
+{"return_type": "inception", "mainEntity": "语音唤醒类", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音唤醒类"}]}
+语	B-${#concept}
+音	I-${#concept}
+唤	I-${#concept}
+醒	I-${#concept}
+类	I-${#concept}
+相	O
+关	O
+的	O
+知	O
+识	O
+最	O
+早	O
+是	O
+在	O
+哪	O
+一	O
+年	O
+出	O
+现	O
+的	O
+
+inception
+{"return_type": "inception", "mainEntity": "声学模型", "slots": [{"op": "eq", "name": "${#concept}", "value": "声学模型"}]}
+什	O
+么	O
+时	O
+候	O
+出	O
+现	O
+了	O
+声	B-${#concept}
+学	I-${#concept}
+模	I-${#concept}
+型	I-${#concept}
+的	O
+知	O
+识	O
+
+inception
+{"return_type": "inception", "mainEntity": "体系结构", "slots": [{"op": "eq", "name": "${#concept}", "value": "体系结构"}]}
+最	O
+早	O
+出	O
+现	O
+体	B-${#concept}
+系	I-${#concept}
+结	I-${#concept}
+构	I-${#concept}
+这	O
+方	O
+面	O
+知	O
+识	O
+是	O
+在	O
+何	O
+年	O
+
+link
+{"return_type": "link", "mainEntity": "丰富音频", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频"}]}
+有	O
+哪	O
+些	O
+丰	B-${#concept}
+富	I-${#concept}
+音	I-${#concept}
+频	I-${#concept}
+相	O
+关	O
+概	O
+念	O
+的	O
+网	O
+站	O
+链	O
+接	O
+
+link
+{"return_type": "link", "mainEntity": "语音唤醒", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音唤醒"}]}
+介	O
+绍	O
+语	B-${#concept}
+音	I-${#concept}
+唤	I-${#concept}
+醒	I-${#concept}
+的	O
+网	O
+页	O
+链	O
+接	O
+
+link
+{"return_type": "link", "mainEntity": "对话动作方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "对话动作方面"}]}
+对	B-${#concept}
+话	I-${#concept}
+动	I-${#concept}
+作	I-${#concept}
+方	I-${#concept}
+面	I-${#concept}
+名	O
+词	O
+相	O
+关	O
+网	O
+页	O
+地	O
+址	O
+是	O
+什	O
+么	O
+
+link
+{"return_type": "link", "mainEntity": "对话动作方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "对话动作方面"}]}
+有	O
+对	B-${#concept}
+话	I-${#concept}
+动	I-${#concept}
+作	I-${#concept}
+方	I-${#concept}
+面	I-${#concept}
+的	O
+名	O
+词	O
+网	O
+址	O
+
+persons
+{"return_type": "persons", "mainEntity": "语音合成", "slots": [{"op": "eq", "name": "${#concept}", "value": "语音合成"}]}
+哪	O
+些	O
+成	O
+员	O
+做	O
+的	O
+是	O
+和	O
+语	B-${#concept}
+音	I-${#concept}
+合	I-${#concept}
+成	I-${#concept}
+相	O
+关	O
+的	O
+工	O
+作	O
+
+persons
+{"return_type": "persons", "mainEntity": "音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "音频处理"}]}
+音	B-${#concept}
+频	I-${#concept}
+处	I-${#concept}
+理	I-${#concept}
+领	O
+域	O
+中	O
+有	O
+哪	O
+些	O
+代	O
+表	O
+性	O
+的	O
+科	O
+研	O
+人	O
+员	O
+
+persons
+{"return_type": "persons", "mainEntity": "音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "音频处理"}]}
+做	O
+音	B-${#concept}
+频	I-${#concept}
+处	I-${#concept}
+理	I-${#concept}
+方	O
+面	O
+科	O
+研	O
+的	O
+有	O
+哪	O
+些	O
+人	O
+
+persons
+{"return_type": "persons", "mainEntity": "声学模型", "slots": [{"op": "eq", "name": "${#concept}", "value": "声学模型"}]}
+声	B-${#concept}
+学	I-${#concept}
+模	I-${#concept}
+型	I-${#concept}
+相	O
+关	O
+的	O
+有	O
+代	O
+表	O
+性	O
+的	O
+搞	O
+科	O
+研	O
+的	O
+有	O
+谁	O
+
+persons
+{"return_type": "persons", "mainEntity": "操作系统", "slots": [{"op": "eq", "name": "${#concept}", "value": "操作系统"}]}
+操	B-${#concept}
+作	I-${#concept}
+系	I-${#concept}
+统	I-${#concept}
+相	O
+关	O
+的	O
+有	O
+代	O
+表	O
+性	O
+搞	O
+科	O
+研	O
+的	O
+有	O
+哪	O
+几	O
+个	O
+人	O
+
+publication
+{"return_type": "publication", "mainEntity": "丰富音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频处理"}]}
+哪	O
+几	O
+篇	O
+论	O
+文	O
+是	O
+应	O
+用	O
+丰	B-${#concept}
+富	I-${#concept}
+音	I-${#concept}
+频	I-${#concept}
+处	I-${#concept}
+理	I-${#concept}
+的	O
+
+publication
+{"return_type": "publication", "mainEntity": "丰富音频处理", "slots": [{"op": "eq", "name": "${#concept}", "value": "丰富音频处理"}]}
+有	O
+哪	O
+些	O
+关	O
+于	O
+丰	B-${#concept}
+富	I-${#concept}
+音	I-${#concept}
+频	I-${#concept}
+处	I-${#concept}
+理	I-${#concept}
+的	O
+文	O
+献	O
+
+publication
+{"return_type": "publication", "mainEntity": "语义理解方面", "slots": [{"op": "eq", "name": "${#concept}", "value": "语义理解方面"}]}
+都	O
+有	O
+多	O
+少	O
+运	O
+用	O
+语	B-${#concept}
+义	I-${#concept}
+理	I-${#concept}
+解	I-${#concept}
+方	I-${#concept}
+面	I-${#concept}
+的	O
+会	O
+议	O
+
+title
+{"return_type": "title", "mainEntity": "深度学习语音识别实践", "slots": [{"op": "eq", "name": "${#book}", "value": "深度学习语音识别实践"}]}
+书	O
+籍	O
+深	B-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+语	I-${#book}
+音	I-${#book}
+识	I-${#book}
+别	I-${#book}
+实	I-${#book}
+践	I-${#book}
+的	O
+标	O
+题	O
+是	O
+什	O
+么	O
+
+title
+{"return_type": "title", "mainEntity": "深度学习语音识别实践", "slots": [{"op": "eq", "name": "${#book}", "value": "深度学习语音识别实践"}]}
+深	B-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+语	I-${#book}
+音	I-${#book}
+识	I-${#book}
+别	I-${#book}
+实	I-${#book}
+践	I-${#book}
+的	O
+标	O
+题	O
+是	O
+什	O
+么	O
+
+publisher
+{"return_type": "publisher", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+automatic	B-${#book}
+speech	I-${#book}
+recognition	I-${#book}
+a	I-${#book}
+deep	I-${#book}
+learning	I-${#book}
+approach	I-${#book}
+是	O
+什	O
+么	O
+出	O
+版	O
+单	O
+位	O
+出	O
+版	O
+的	O
+
+publisher
+{"return_type": "publisher", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+automatic	B-${#book}
+speech	I-${#book}
+recognition	I-${#book}
+a	I-${#book}
+deep	I-${#book}
+learning	I-${#book}
+approach	I-${#book}
+的	O
+出	O
+版	O
+单	O
+位	O
+是	O
+哪	O
+个	O
+
+publisher
+{"return_type": "publisher", "mainEntity": "an empirical study of smoothing techniques for language modeling", "slots": [{"op": "eq", "name": "${#book}", "value": "an empirical study of smoothing techniques for language modeling"}]}
+an	B-${#book}
+empirical	I-${#book}
+study	I-${#book}
+of	I-${#book}
+smoothing	I-${#book}
+techniques	I-${#book}
+for	I-${#book}
+language	I-${#book}
+modeling	I-${#book}
+是	O
+谁	O
+出	O
+版	O
+的	O
+
+link
+{"return_type": "link", "mainEntity": "解析深度学习语音识别实践", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习语音识别实践"}]}
+是	O
+否	O
+有	O
+解	B-${#book}
+析	I-${#book}
+深	I-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+语	I-${#book}
+音	I-${#book}
+识	I-${#book}
+别	I-${#book}
+实	I-${#book}
+践	I-${#book}
+的	O
+在	O
+线	O
+阅	O
+读	O
+网	O
+页	O
+链	O
+接	O
+
+link
+{"return_type": "link", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+我	O
+在	O
+哪	O
+可	O
+以	O
+下	O
+载	O
+到	O
+leaning	B-${#book}
+deep	I-${#book}
+architectures	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+这	O
+本	O
+书	O
+
+link
+{"return_type": "link", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+哪	O
+里	O
+可	O
+以	O
+下	O
+载	O
+leaning	B-${#book}
+deep	I-${#book}
+architectures	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+这	O
+本	O
+书	O
+
+link
+{"return_type": "link", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+哪	O
+里	O
+能	O
+够	O
+下	O
+载	O
+leaning	B-${#book}
+deep	I-${#book}
+architectures	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "解析深度学习", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习"}]}
+解	B-${#book}
+析	I-${#book}
+深	I-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+是	O
+哪	O
+一	O
+年	O
+出	O
+售	O
+的	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "解析深度学习", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习"}]}
+解	B-${#book}
+析	I-${#book}
+深	I-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+这	O
+本	O
+经	O
+典	O
+在	O
+哪	O
+一	O
+年	O
+准	O
+确	O
+出	O
+售	O
+的	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "解析深度学习", "slots": [{"op": "eq", "name": "${#book}", "value": "解析深度学习"}]}
+解	B-${#book}
+析	I-${#book}
+深	I-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+哪	O
+一	O
+年	O
+发	O
+行	O
+的	O
+
+publication_date
+{"return_type": "publication_date", "mainEntity": "机器学习", "slots": [{"op": "eq", "name": "${#book}", "value": "机器学习"}]}
+什	O
+么	O
+时	O
+候	O
+出	O
+版	O
+了	O
+机	B-${#book}
+器	I-${#book}
+学	I-${#book}
+习	I-${#book}
+
+contribution
+{"return_type": "contribution", "mainEntity": "机器学习", "slots": [{"op": "eq", "name": "${#book}", "value": "机器学习"}]}
+机	B-${#book}
+器	I-${#book}
+学	I-${#book}
+习	I-${#book}
+是	O
+谁	O
+写	O
+的	O
+
+contribution
+{"return_type": "contribution", "mainEntity": "leaning deep architectures for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architectures for ai"}]}
+leaning	B-${#book}
+deep	I-${#book}
+architectures	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+是	O
+原	O
+创	O
+书	O
+籍	O
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "原作"}]}
+哪	O
+几	O
+个	O
+是	O
+原	B-contribution
+作	I-contribution
+作	O
+品	O
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "原作"}]}
+有	O
+哪	O
+些	O
+作	O
+品	O
+是	O
+原	B-contribution
+作	I-contribution
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "翻译"}]}
+你	O
+们	O
+实	O
+验	O
+室	O
+翻	B-contribution
+译	I-contribution
+的	O
+著	O
+作	O
+有	O
+哪	O
+些	O
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "翻译"}]}
+智	O
+能	O
+语	O
+音	O
+实	O
+验	O
+室	O
+翻	B-contribution
+译	I-contribution
+著	O
+作	O
+有	O
+哪	O
+些	O
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "翻译"}]}
+翻	B-contribution
+译	I-contribution
+的	O
+作	O
+品	O
+有	O
+哪	O
+些	O
+
+${#book}
+{"return_type": "${#book}", "mainEntity": "", "slots": [{"op": "eq", "name": "contribution", "value": "原创"}]}
+原	B-contribution
+创	I-contribution
+著	O
+作	O
+有	O
+哪	O
+些	O
+
+translator
+{"return_type": "translator", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+是	O
+谁	O
+翻	O
+译	O
+了	O
+automatic	B-${#book}
+speech	I-${#book}
+recognition	I-${#book}
+a	I-${#book}
+deep	I-${#book}
+learning	I-${#book}
+approach	I-${#book}
+这	O
+本	O
+书	O
+
+translator
+{"return_type": "translator", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+automatic	B-${#book}
+speech	I-${#book}
+recognition	I-${#book}
+a	I-${#book}
+deep	I-${#book}
+learning	I-${#book}
+approach	I-${#book}
+这	O
+本	O
+书	O
+谁	O
+翻	O
+译	O
+的	O
+
+translator
+{"return_type": "translator", "mainEntity": "automatic speech recognition a deep learning approach", "slots": [{"op": "eq", "name": "${#book}", "value": "automatic speech recognition a deep learning approach"}]}
+automatic	B-${#book}
+speech	I-${#book}
+recognition	I-${#book}
+a	I-${#book}
+deep	I-${#book}
+learning	I-${#book}
+approach	I-${#book}
+这	O
+本	O
+著	O
+作	O
+译	O
+者	O
+是	O
+谁	O
+
+author
+{"return_type": "author", "mainEntity": "leaning deep architecture for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architecture for ai"}]}
+leaning	B-${#book}
+deep	I-${#book}
+architecture	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+这	O
+本	O
+书	O
+的	O
+作	O
+者	O
+是	O
+谁	O
+
+author
+{"return_type": "author", "mainEntity": "leaning deep architecture for ai", "slots": [{"op": "eq", "name": "${#book}", "value": "leaning deep architecture for ai"}]}
+leaning	B-${#book}
+deep	I-${#book}
+architecture	I-${#book}
+for	I-${#book}
+ai	I-${#book}
+的	O
+作	O
+者	O
+是	O
+谁	O
+
+author
+{"return_type": "author", "mainEntity": "深度学习结构", "slots": [{"op": "eq", "name": "${#book}", "value": "深度学习结构"}]}
+深	B-${#book}
+度	I-${#book}
+学	I-${#book}
+习	I-${#book}
+结	I-${#book}
+构	I-${#book}
+这	O
+本	O
+书	O
+的	O
+作	O
+者	O
+有	O
+哪	O
+些	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+项	O
+发	O
+明	O
+专	O
+利	O
+的	O
+独	O
+有	O
+识	O
+别	O
+号	O
+是	O
+什	O
+么	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+唯	O
+独	O
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+项	O
+发	O
+明	O
+专	O
+利	O
+有	O
+识	O
+别	O
+号	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+的	O
+专	O
+利	O
+号	O
+是	O
+多	O
+少	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+项	O
+发	O
+明	O
+专	O
+利	O
+的	O
+识	O
+别	O
+号	O
+是	O
+什	O
+么	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+的	O
+专	O
+利	O
+发	O
+明	O
+id	O
+是	O
+多	O
+少	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+项	O
+专	O
+利	O
+发	O
+明	O
+的	O
+编	O
+号	O
+是	O
+什	O
+么	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+项	O
+专	O
+利	O
+发	O
+明	O
+的	O
+i	O
+d	O
+是	O
+什	O
+么	O
+
+patent_id
+{"return_type": "patent_id", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+一	O
+项	O
+专	O
+利	O
+发	O
+明	O
+人	O
+是	O
+谁	O
+
+description
+{"return_type": "description", "mainEntity": "数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串的纠正方法及装置"}]}
+描	O
+述	O
+一	O
+下	O
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+一	O
+项	O
+专	O
+利	O
+的	O
+各	O
+方	O
+面	O
+特	O
+点	O
+
+description
+{"return_type": "description", "mainEntity": "一种基于人机交互的数字串的纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "一种基于人机交互的数字串的纠正方法及装置"}]}
+一	B-${#patent}
+种	I-${#patent}
+基	I-${#patent}
+于	I-${#patent}
+人	I-${#patent}
+机	I-${#patent}
+交	I-${#patent}
+互	I-${#patent}
+的	I-${#patent}
+数	I-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+的	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+是	O
+做	O
+什	O
+么	O
+的	O
+
+author
+{"return_type": "author", "mainEntity": "数字串纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法及装置"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+是	O
+哪	O
+些	O
+人	O
+的	O
+发	O
+明	O
+专	O
+利	O
+
+author
+{"return_type": "author", "mainEntity": "数字串纠正方法及装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法及装置"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+及	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+这	O
+一	O
+专	O
+利	O
+的	O
+发	O
+明	O
+人	O
+有	O
+哪	O
+些	O
+
+author
+{"return_type": "author", "mainEntity": "数字串纠正方法", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+是	O
+哪	O
+个	O
+人	O
+发	O
+明	O
+的	O
+专	O
+利	O
+
+author
+{"return_type": "author", "mainEntity": "数字串纠正方法", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+这	O
+个	O
+专	O
+利	O
+是	O
+谁	O
+发	O
+明	O
+的	O
+
+author
+{"return_type": "author", "mainEntity": "数字串纠正方法", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法"}]}
+哪	O
+个	O
+人	O
+发	O
+明	O
+了	O
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+这	O
+个	O
+专	O
+利	O
+
+author
+{"return_type": "author", "mainEntity": "数字串纠正方法", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正方法"}]}
+谁	O
+发	O
+明	O
+了	O
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+方	I-${#patent}
+法	I-${#patent}
+这	O
+一	O
+专	O
+利	O
+
+technology
+{"return_type": "technology", "mainEntity": "数字串纠正装置", "slots": [{"op": "eq", "name": "${#patent}", "value": "数字串纠正装置"}]}
+数	B-${#patent}
+字	I-${#patent}
+串	I-${#patent}
+纠	I-${#patent}
+正	I-${#patent}
+装	I-${#patent}
+置	I-${#patent}
+专	O
+利	O
+的	O
+技	O
+术	O
+是	O
+关	O
+于	O
+哪	O
+些	O
+方	O
+面	O
+的	O
+
+${#patent}
+{"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语义"}]}
+跟	O
+语	B-technology
+义	I-technology
+技	O
+术	O
+相	O
+关	O
+的	O
+发	O
+明	O
+专	O
+利	O
+有	O
+哪	O
+些	O
+
+${#patent}
+{"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "语言模型"}]}
+有	O
+什	O
+么	O
+和	O
+语	B-technology
+言	I-technology
+模	I-technology
+型	I-technology
+相	O
+关	O
+的	O
+专	O
+利	O
+
+${#patent}
+{"return_type": "${#patent}", "mainEntity": "", "slots": [{"op": "eq", "name": "technology", "value": "丰富音频处理"}]}
+有	O
+哪	O
+些	O
+相	O
+关	O
+专	O
+利	O
+是	O
+与	O
+丰	B-technology
+富	I-technology
+音	I-technology
+频	I-technology
+处	I-technology
+理	I-technology
+相	O
+关	O
+
+nil
+{"return_type": "nil", "mainEntity": "语言模型", "slots": [{"op": "eq", "name": "${#concept}", "value": "语言模型"}]}
+语	B-${#concept}
+言	I-${#concept}
+模	I-${#concept}
+型	I-${#concept}
+是	O
+什	O
+么	O
