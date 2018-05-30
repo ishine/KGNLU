@@ -24,7 +24,7 @@ Natural Language Understanding over Knowledge Graph.
     - transformDataFormat.sh: convert rules.annotation.txt to training data format  
     - tran.sh: train the network and save best model  
     - eval.sh: given test file, generating annotation result  
-    - collect_testdata.py: generate test set original sentences  
+    - collect_testdata.sh: generate test set original sentences  
 - res/: resources after preprocessing training data, including  
     - vocabulary.txt: vocabulary file, voc2idx  
     - slot_tagset.txt: slot tags, tag2idx  
